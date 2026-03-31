@@ -1,0 +1,1063 @@
+{
+  "event_name": "Valero Texas Open",
+  "last_updated": "2026-03-31 05:30:53 UTC",
+  "player_count": 132,
+  "players": [
+    {
+      "dg_id": 12294,
+      "name": "Tommy Fleetwood",
+      "country": "ENG",
+      "dg_rank": 6,
+      "owgr_rank": 4,
+      "amateur": false
+    },
+    {
+      "dg_id": 14578,
+      "name": "Russell Henley",
+      "country": "USA",
+      "dg_rank": 8,
+      "owgr_rank": 10,
+      "amateur": false
+    },
+    {
+      "dg_id": 23323,
+      "name": "Robert MacIntyre",
+      "country": "SCO",
+      "dg_rank": 9,
+      "owgr_rank": 11,
+      "amateur": false
+    },
+    {
+      "dg_id": 23950,
+      "name": "Ludvig Aberg",
+      "country": "SWE",
+      "dg_rank": 11,
+      "owgr_rank": 18,
+      "amateur": false
+    },
+    {
+      "dg_id": 13562,
+      "name": "Hideki Matsuyama",
+      "country": "JPN",
+      "dg_rank": 12,
+      "owgr_rank": 14,
+      "amateur": false
+    },
+    {
+      "dg_id": 22085,
+      "name": "Collin Morikawa",
+      "country": "USA",
+      "dg_rank": 13,
+      "owgr_rank": 8,
+      "amateur": false
+    },
+    {
+      "dg_id": 14609,
+      "name": "Si Woo Kim",
+      "country": "KOR",
+      "dg_rank": 15,
+      "owgr_rank": 30,
+      "amateur": false
+    },
+    {
+      "dg_id": 18634,
+      "name": "Maverick McNealy",
+      "country": "USA",
+      "dg_rank": 21,
+      "owgr_rank": 27,
+      "amateur": false
+    },
+    {
+      "dg_id": 10419,
+      "name": "Alex Noren",
+      "country": "SWE",
+      "dg_rank": 23,
+      "owgr_rank": 19,
+      "amateur": false
+    },
+    {
+      "dg_id": 12965,
+      "name": "Rickie Fowler",
+      "country": "USA",
+      "dg_rank": 25,
+      "owgr_rank": 65,
+      "amateur": false
+    },
+    {
+      "dg_id": 17511,
+      "name": "Sepp Straka",
+      "country": "AUT",
+      "dg_rank": 28,
+      "owgr_rank": 12,
+      "amateur": false
+    },
+    {
+      "dg_id": 14636,
+      "name": "Jordan Spieth",
+      "country": "USA",
+      "dg_rank": 31,
+      "owgr_rank": 63,
+      "amateur": false
+    },
+    {
+      "dg_id": 17536,
+      "name": "J.J. Spaun",
+      "country": "USA",
+      "dg_rank": 34,
+      "owgr_rank": 13,
+      "amateur": false
+    },
+    {
+      "dg_id": 13126,
+      "name": "Nick Taylor",
+      "country": "CAN",
+      "dg_rank": 43,
+      "owgr_rank": 66,
+      "amateur": false
+    },
+    {
+      "dg_id": 17365,
+      "name": "Keith Mitchell",
+      "country": "USA",
+      "dg_rank": 44,
+      "owgr_rank": 105,
+      "amateur": false
+    },
+    {
+      "dg_id": 26649,
+      "name": "Michael Thorbjornsen",
+      "country": "USA",
+      "dg_rank": 49,
+      "owgr_rank": 54,
+      "amateur": false
+    },
+    {
+      "dg_id": 17606,
+      "name": "Daniel Berger",
+      "country": "USA",
+      "dg_rank": 52,
+      "owgr_rank": 38,
+      "amateur": false
+    },
+    {
+      "dg_id": 18103,
+      "name": "Christiaan Bezuidenhout",
+      "country": "RSA",
+      "dg_rank": 53,
+      "owgr_rank": 91,
+      "amateur": false
+    },
+    {
+      "dg_id": 13412,
+      "name": "Thorbjorn Olesen",
+      "country": "DEN",
+      "dg_rank": 55,
+      "owgr_rank": 104,
+      "amateur": false
+    },
+    {
+      "dg_id": 23505,
+      "name": "Max McGreevy",
+      "country": "USA",
+      "dg_rank": 57,
+      "owgr_rank": 73,
+      "amateur": false
+    },
+    {
+      "dg_id": 22760,
+      "name": "Ryo Hisatsune",
+      "country": "JPN",
+      "dg_rank": 58,
+      "owgr_rank": 64,
+      "amateur": false
+    },
+    {
+      "dg_id": 18474,
+      "name": "Alex Smalley",
+      "country": "USA",
+      "dg_rank": 60,
+      "owgr_rank": 113,
+      "amateur": false
+    },
+    {
+      "dg_id": 16283,
+      "name": "Patrick Rodgers",
+      "country": "USA",
+      "dg_rank": 61,
+      "owgr_rank": 72,
+      "amateur": false
+    },
+    {
+      "dg_id": 18586,
+      "name": "Jordan Smith",
+      "country": "ENG",
+      "dg_rank": 63,
+      "owgr_rank": 67,
+      "amateur": false
+    },
+    {
+      "dg_id": 19870,
+      "name": "Denny McCarthy",
+      "country": "USA",
+      "dg_rank": 64,
+      "owgr_rank": 92,
+      "amateur": false
+    },
+    {
+      "dg_id": 28635,
+      "name": "Matt McCarty",
+      "country": "USA",
+      "dg_rank": 70,
+      "owgr_rank": 46,
+      "amateur": false
+    },
+    {
+      "dg_id": 27819,
+      "name": "Ricky Castillo",
+      "country": "USA",
+      "dg_rank": 72,
+      "owgr_rank": 86,
+      "amateur": false
+    },
+    {
+      "dg_id": 13764,
+      "name": "John Parry",
+      "country": "ENG",
+      "dg_rank": 77,
+      "owgr_rank": 84,
+      "amateur": false
+    },
+    {
+      "dg_id": 21554,
+      "name": "J.T. Poston",
+      "country": "USA",
+      "dg_rank": 78,
+      "owgr_rank": 76,
+      "amateur": false
+    },
+    {
+      "dg_id": 22002,
+      "name": "Adrien Dumont De Chassart",
+      "country": "BEL",
+      "dg_rank": 80,
+      "owgr_rank": 145,
+      "amateur": false
+    },
+    {
+      "dg_id": 28159,
+      "name": "Mac Meissner",
+      "country": "USA",
+      "dg_rank": 82,
+      "owgr_rank": 115,
+      "amateur": false
+    },
+    {
+      "dg_id": 22465,
+      "name": "Marco Penge",
+      "country": "ENG",
+      "dg_rank": 85,
+      "owgr_rank": 37,
+      "amateur": false
+    },
+    {
+      "dg_id": 16394,
+      "name": "Stephan Jaeger",
+      "country": "GER",
+      "dg_rank": 86,
+      "owgr_rank": 99,
+      "amateur": false
+    },
+    {
+      "dg_id": 12423,
+      "name": "Chris Kirk",
+      "country": "USA",
+      "dg_rank": 88,
+      "owgr_rank": 97,
+      "amateur": false
+    },
+    {
+      "dg_id": 19428,
+      "name": "Will Zalatoris",
+      "country": "USA",
+      "dg_rank": 90,
+      "owgr_rank": 299,
+      "amateur": false
+    },
+    {
+      "dg_id": 29925,
+      "name": "Sudarshan Yellamaraju",
+      "country": "CAN",
+      "dg_rank": 93,
+      "owgr_rank": 131,
+      "amateur": false
+    },
+    {
+      "dg_id": 8825,
+      "name": "Brian Harman",
+      "country": "USA",
+      "dg_rank": 94,
+      "owgr_rank": 50,
+      "amateur": false
+    },
+    {
+      "dg_id": 15310,
+      "name": "Haotong Li",
+      "country": "CHN",
+      "dg_rank": 96,
+      "owgr_rank": 81,
+      "amateur": false
+    },
+    {
+      "dg_id": 11676,
+      "name": "Tony Finau",
+      "country": "USA",
+      "dg_rank": 97,
+      "owgr_rank": 107,
+      "amateur": false
+    },
+    {
+      "dg_id": 27364,
+      "name": "Davis Thompson",
+      "country": "USA",
+      "dg_rank": 99,
+      "owgr_rank": 120,
+      "amateur": false
+    },
+    {
+      "dg_id": 32457,
+      "name": "Johnny Keefer",
+      "country": "USA",
+      "dg_rank": 100,
+      "owgr_rank": 60,
+      "amateur": false
+    },
+    {
+      "dg_id": 21407,
+      "name": "Kristoffer Reitan",
+      "country": "NOR",
+      "dg_rank": 101,
+      "owgr_rank": 49,
+      "amateur": false
+    },
+    {
+      "dg_id": 23504,
+      "name": "Rico Hoey",
+      "country": "PHI",
+      "dg_rank": 105,
+      "owgr_rank": 78,
+      "amateur": false
+    },
+    {
+      "dg_id": 17543,
+      "name": "Michael Kim",
+      "country": "USA",
+      "dg_rank": 106,
+      "owgr_rank": 56,
+      "amateur": false
+    },
+    {
+      "dg_id": 19840,
+      "name": "Chad Ramey",
+      "country": "USA",
+      "dg_rank": 108,
+      "owgr_rank": 144,
+      "amateur": false
+    },
+    {
+      "dg_id": 17538,
+      "name": "Max Homa",
+      "country": "USA",
+      "dg_rank": 109,
+      "owgr_rank": 156,
+      "amateur": false
+    },
+    {
+      "dg_id": 14704,
+      "name": "Andrew Putnam",
+      "country": "USA",
+      "dg_rank": 110,
+      "owgr_rank": 114,
+      "amateur": false
+    },
+    {
+      "dg_id": 21756,
+      "name": "Eric Cole",
+      "country": "USA",
+      "dg_rank": 111,
+      "owgr_rank": 119,
+      "amateur": false
+    },
+    {
+      "dg_id": 10104,
+      "name": "Seamus Power",
+      "country": "IRL",
+      "dg_rank": 113,
+      "owgr_rank": 164,
+      "amateur": false
+    },
+    {
+      "dg_id": 14502,
+      "name": "Bud Cauley",
+      "country": "USA",
+      "dg_rank": 115,
+      "owgr_rank": 80,
+      "amateur": false
+    },
+    {
+      "dg_id": 25908,
+      "name": "Vince Whaley",
+      "country": "USA",
+      "dg_rank": 116,
+      "owgr_rank": 124,
+      "amateur": false
+    },
+    {
+      "dg_id": 23475,
+      "name": "Andrew Novak",
+      "country": "USA",
+      "dg_rank": 118,
+      "owgr_rank": 47,
+      "amateur": false
+    },
+    {
+      "dg_id": 24766,
+      "name": "Tom Kim",
+      "country": "KOR",
+      "dg_rank": 119,
+      "owgr_rank": 129,
+      "amateur": false
+    },
+    {
+      "dg_id": 16757,
+      "name": "Zecheng Dou",
+      "country": "CHN",
+      "dg_rank": 120,
+      "owgr_rank": 185,
+      "amateur": false
+    },
+    {
+      "dg_id": 23816,
+      "name": "Sami Valimaki",
+      "country": "FIN",
+      "dg_rank": 121,
+      "owgr_rank": 57,
+      "amateur": false
+    },
+    {
+      "dg_id": 22985,
+      "name": "Austin Smotherman",
+      "country": "USA",
+      "dg_rank": 122,
+      "owgr_rank": 90,
+      "amateur": false
+    },
+    {
+      "dg_id": 29770,
+      "name": "William Mouw",
+      "country": "USA",
+      "dg_rank": 123,
+      "owgr_rank": 121,
+      "amateur": false
+    },
+    {
+      "dg_id": 20706,
+      "name": "Matt Wallace",
+      "country": "ENG",
+      "dg_rank": 124,
+      "owgr_rank": 96,
+      "amateur": false
+    },
+    {
+      "dg_id": 15556,
+      "name": "Mackenzie Hughes",
+      "country": "CAN",
+      "dg_rank": 127,
+      "owgr_rank": 118,
+      "amateur": false
+    },
+    {
+      "dg_id": 25157,
+      "name": "Lee Hodges",
+      "country": "USA",
+      "dg_rank": 129,
+      "owgr_rank": 132,
+      "amateur": false
+    },
+    {
+      "dg_id": 18424,
+      "name": "Kevin Roy",
+      "country": "USA",
+      "dg_rank": 131,
+      "owgr_rank": 140,
+      "amateur": false
+    },
+    {
+      "dg_id": 6169,
+      "name": "Matt Kuchar",
+      "country": "USA",
+      "dg_rank": 133,
+      "owgr_rank": 160,
+      "amateur": false
+    },
+    {
+      "dg_id": 24550,
+      "name": "Doug Ghim",
+      "country": "USA",
+      "dg_rank": 134,
+      "owgr_rank": 184,
+      "amateur": false
+    },
+    {
+      "dg_id": 14509,
+      "name": "Joel Dahmen",
+      "country": "USA",
+      "dg_rank": 137,
+      "owgr_rank": 175,
+      "amateur": false
+    },
+    {
+      "dg_id": 24956,
+      "name": "Chandler Blanchet",
+      "country": "USA",
+      "dg_rank": 138,
+      "owgr_rank": 112,
+      "amateur": false
+    },
+    {
+      "dg_id": 20766,
+      "name": "Dan Brown",
+      "country": "ENG",
+      "dg_rank": 140,
+      "owgr_rank": 85,
+      "amateur": false
+    },
+    {
+      "dg_id": 11276,
+      "name": "Billy Horschel",
+      "country": "USA",
+      "dg_rank": 141,
+      "owgr_rank": 94,
+      "amateur": false
+    },
+    {
+      "dg_id": 15980,
+      "name": "David Lipsky",
+      "country": "USA",
+      "dg_rank": 142,
+      "owgr_rank": 88,
+      "amateur": false
+    },
+    {
+      "dg_id": 26653,
+      "name": "Austin Eckroat",
+      "country": "USA",
+      "dg_rank": 145,
+      "owgr_rank": 174,
+      "amateur": false
+    },
+    {
+      "dg_id": 15470,
+      "name": "Beau Hossler",
+      "country": "USA",
+      "dg_rank": 147,
+      "owgr_rank": 159,
+      "amateur": false
+    },
+    {
+      "dg_id": 19729,
+      "name": "Takumi Kanaya",
+      "country": "JPN",
+      "dg_rank": 148,
+      "owgr_rank": 126,
+      "amateur": false
+    },
+    {
+      "dg_id": 21944,
+      "name": "Taylor Moore",
+      "country": "USA",
+      "dg_rank": 150,
+      "owgr_rank": 147,
+      "amateur": false
+    },
+    {
+      "dg_id": 26657,
+      "name": "Steven Fisk",
+      "country": "USA",
+      "dg_rank": 151,
+      "owgr_rank": 137,
+      "amateur": false
+    },
+    {
+      "dg_id": 15651,
+      "name": "Kris Ventura",
+      "country": "NOR",
+      "dg_rank": 152,
+      "owgr_rank": 239,
+      "amateur": false
+    },
+    {
+      "dg_id": 7399,
+      "name": "Lucas Glover",
+      "country": "USA",
+      "dg_rank": 155,
+      "owgr_rank": 93,
+      "amateur": false
+    },
+    {
+      "dg_id": 17881,
+      "name": "Kevin Yu",
+      "country": "TPE",
+      "dg_rank": 161,
+      "owgr_rank": 117,
+      "amateur": false
+    },
+    {
+      "dg_id": 21688,
+      "name": "S.H. Kim",
+      "country": "KOR",
+      "dg_rank": 168,
+      "owgr_rank": 141,
+      "amateur": false
+    },
+    {
+      "dg_id": 11049,
+      "name": "Webb Simpson",
+      "country": "USA",
+      "dg_rank": 169,
+      "owgr_rank": 416,
+      "amateur": false
+    },
+    {
+      "dg_id": 19846,
+      "name": "Zach Bauchou",
+      "country": "USA",
+      "dg_rank": 173,
+      "owgr_rank": 176,
+      "amateur": false
+    },
+    {
+      "dg_id": 12808,
+      "name": "Emiliano Grillo",
+      "country": "ARG",
+      "dg_rank": 175,
+      "owgr_rank": 109,
+      "amateur": false
+    },
+    {
+      "dg_id": 14792,
+      "name": "Adrien Saddier",
+      "country": "FRA",
+      "dg_rank": 176,
+      "owgr_rank": 95,
+      "amateur": false
+    },
+    {
+      "dg_id": 31343,
+      "name": "David Ford",
+      "country": "USA",
+      "dg_rank": 177,
+      "owgr_rank": 267,
+      "amateur": false
+    },
+    {
+      "dg_id": 19960,
+      "name": "Matthieu Pavon",
+      "country": "FRA",
+      "dg_rank": 178,
+      "owgr_rank": 224,
+      "amateur": false
+    },
+    {
+      "dg_id": 13508,
+      "name": "Jhonattan Vegas",
+      "country": "VEN",
+      "dg_rank": 183,
+      "owgr_rank": 101,
+      "amateur": false
+    },
+    {
+      "dg_id": 25002,
+      "name": "Dylan Wu",
+      "country": "USA",
+      "dg_rank": 188,
+      "owgr_rank": 331,
+      "amateur": false
+    },
+    {
+      "dg_id": 11082,
+      "name": "Bronson Burgoon",
+      "country": "USA",
+      "dg_rank": 194,
+      "owgr_rank": 320,
+      "amateur": false
+    },
+    {
+      "dg_id": 24342,
+      "name": "Garrick Higgo",
+      "country": "RSA",
+      "dg_rank": 196,
+      "owgr_rank": 83,
+      "amateur": false
+    },
+    {
+      "dg_id": 26850,
+      "name": "Jesper Svensson",
+      "country": "SWE",
+      "dg_rank": 203,
+      "owgr_rank": 181,
+      "amateur": false
+    },
+    {
+      "dg_id": 21943,
+      "name": "Hank Lebioda",
+      "country": "USA",
+      "dg_rank": 204,
+      "owgr_rank": 206,
+      "amateur": false
+    },
+    {
+      "dg_id": 16715,
+      "name": "Sam Ryder",
+      "country": "USA",
+      "dg_rank": 205,
+      "owgr_rank": 230,
+      "amateur": false
+    },
+    {
+      "dg_id": 24304,
+      "name": "Karl Vilips",
+      "country": "AUS",
+      "dg_rank": 214,
+      "owgr_rank": 146,
+      "amateur": false
+    },
+    {
+      "dg_id": 8820,
+      "name": "Brandt Snedeker",
+      "country": "USA",
+      "dg_rank": 215,
+      "owgr_rank": 276,
+      "amateur": false
+    },
+    {
+      "dg_id": 25319,
+      "name": "John VanDerLaan",
+      "country": "USA",
+      "dg_rank": 218,
+      "owgr_rank": 266,
+      "amateur": false
+    },
+    {
+      "dg_id": 25094,
+      "name": "Patrick Fishburn",
+      "country": "USA",
+      "dg_rank": 222,
+      "owgr_rank": 168,
+      "amateur": false
+    },
+    {
+      "dg_id": 21883,
+      "name": "A.J. Ewart",
+      "country": "CAN",
+      "dg_rank": 226,
+      "owgr_rank": 233,
+      "amateur": false
+    },
+    {
+      "dg_id": 16333,
+      "name": "Mark Hubbard",
+      "country": "USA",
+      "dg_rank": 227,
+      "owgr_rank": 149,
+      "amateur": false
+    },
+    {
+      "dg_id": 15575,
+      "name": "Tom Hoge",
+      "country": "USA",
+      "dg_rank": 228,
+      "owgr_rank": 106,
+      "amateur": false
+    },
+    {
+      "dg_id": 13997,
+      "name": "Adam Svensson",
+      "country": "CAN",
+      "dg_rank": 237,
+      "owgr_rank": 377,
+      "amateur": false
+    },
+    {
+      "dg_id": 25475,
+      "name": "Pontus Nyholm",
+      "country": "SWE",
+      "dg_rank": 239,
+      "owgr_rank": 227,
+      "amateur": false
+    },
+    {
+      "dg_id": 29279,
+      "name": "Jackson Suber",
+      "country": "USA",
+      "dg_rank": 248,
+      "owgr_rank": 198,
+      "amateur": false
+    },
+    {
+      "dg_id": 30620,
+      "name": "Davis Chatfield",
+      "country": "USA",
+      "dg_rank": 251,
+      "owgr_rank": 262,
+      "amateur": false
+    },
+    {
+      "dg_id": 32055,
+      "name": "Neal Shipley",
+      "country": "USA",
+      "dg_rank": 252,
+      "owgr_rank": 152,
+      "amateur": false
+    },
+    {
+      "dg_id": 13470,
+      "name": "Patton Kizzire",
+      "country": "USA",
+      "dg_rank": 260,
+      "owgr_rank": 258,
+      "amateur": false
+    },
+    {
+      "dg_id": 25003,
+      "name": "Danny Walker",
+      "country": "USA",
+      "dg_rank": 263,
+      "owgr_rank": 215,
+      "amateur": false
+    },
+    {
+      "dg_id": 27164,
+      "name": "Chandler Phillips",
+      "country": "USA",
+      "dg_rank": 273,
+      "owgr_rank": 182,
+      "amateur": false
+    },
+    {
+      "dg_id": 32330,
+      "name": "Luke Clanton",
+      "country": "USA",
+      "dg_rank": 294,
+      "owgr_rank": 204,
+      "amateur": false
+    },
+    {
+      "dg_id": 8480,
+      "name": "Kevin Streelman",
+      "country": "USA",
+      "dg_rank": 307,
+      "owgr_rank": 413,
+      "amateur": false
+    },
+    {
+      "dg_id": 17550,
+      "name": "Erik Van Rooyen",
+      "country": "RSA",
+      "dg_rank": 309,
+      "owgr_rank": 158,
+      "amateur": false
+    },
+    {
+      "dg_id": 11451,
+      "name": "Brice Garnett",
+      "country": "USA",
+      "dg_rank": 313,
+      "owgr_rank": 391,
+      "amateur": false
+    },
+    {
+      "dg_id": 24343,
+      "name": "Christo Lamprecht",
+      "country": "RSA",
+      "dg_rank": 318,
+      "owgr_rank": 201,
+      "amateur": false
+    },
+    {
+      "dg_id": 20954,
+      "name": "Kensei Hirata",
+      "country": "JPN",
+      "dg_rank": 339,
+      "owgr_rank": 197,
+      "amateur": false
+    },
+    {
+      "dg_id": 17723,
+      "name": "Justin Lower",
+      "country": "USA",
+      "dg_rank": 340,
+      "owgr_rank": 199,
+      "amateur": false
+    },
+    {
+      "dg_id": 21889,
+      "name": "Jeffrey Kang",
+      "country": "USA",
+      "dg_rank": 351,
+      "owgr_rank": 241,
+      "amateur": false
+    },
+    {
+      "dg_id": 14926,
+      "name": "Peter Malnati",
+      "country": "USA",
+      "dg_rank": 352,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 19865,
+      "name": "Nick Hardy",
+      "country": "USA",
+      "dg_rank": 357,
+      "owgr_rank": 484,
+      "amateur": false
+    },
+    {
+      "dg_id": 12426,
+      "name": "Paul Waring",
+      "country": "ENG",
+      "dg_rank": 362,
+      "owgr_rank": 298,
+      "amateur": false
+    },
+    {
+      "dg_id": 28469,
+      "name": "Joe Highsmith",
+      "country": "USA",
+      "dg_rank": 379,
+      "owgr_rank": 139,
+      "amateur": false
+    },
+    {
+      "dg_id": 23048,
+      "name": "Jimmy Stanger",
+      "country": "USA",
+      "dg_rank": 382,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 5768,
+      "name": "Charley Hoffman",
+      "country": "USA",
+      "dg_rank": 393,
+      "owgr_rank": 370,
+      "amateur": false
+    },
+    {
+      "dg_id": 9171,
+      "name": "Camilo Villegas",
+      "country": "COL",
+      "dg_rank": 399,
+      "owgr_rank": 460,
+      "amateur": false
+    },
+    {
+      "dg_id": 28270,
+      "name": "Nick Dunlap",
+      "country": "USA",
+      "dg_rank": 404,
+      "owgr_rank": 244,
+      "amateur": false
+    },
+    {
+      "dg_id": 19477,
+      "name": "Adam Schenk",
+      "country": "USA",
+      "dg_rank": 422,
+      "owgr_rank": 150,
+      "amateur": false
+    },
+    {
+      "dg_id": 16591,
+      "name": "Marcelo Rozo",
+      "country": "COL",
+      "dg_rank": 454,
+      "owgr_rank": 485,
+      "amateur": false
+    },
+    {
+      "dg_id": 17032,
+      "name": "Alejandro Tosti",
+      "country": "ARG",
+      "dg_rank": 461,
+      "owgr_rank": 308,
+      "amateur": false
+    },
+    {
+      "dg_id": 13497,
+      "name": "K.H. Lee",
+      "country": "KOR",
+      "dg_rank": 491,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 12909,
+      "name": "Rafael Campos",
+      "country": "PUR",
+      "dg_rank": null,
+      "owgr_rank": 423,
+      "amateur": false
+    },
+    {
+      "dg_id": 32460,
+      "name": "Charlie Crockett",
+      "country": "ENG",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 7820,
+      "name": "Ryan Palmer",
+      "country": "USA",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 30814,
+      "name": "Gordon Sargent",
+      "country": "USA",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 12425,
+      "name": "Brendon Todd",
+      "country": "USA",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 7293,
+      "name": "Jimmy Walker",
+      "country": "USA",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    },
+    {
+      "dg_id": 31909,
+      "name": "Austin Wylie",
+      "country": "USA",
+      "dg_rank": null,
+      "owgr_rank": null,
+      "amateur": false
+    }
+  ]
+}

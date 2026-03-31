@@ -1,0 +1,740 @@
+{
+  "last_updated": "2026-03-31T05:33:42.604217+00:00",
+  "event_name": "Texas Children's Houston Open",
+  "current_round": 4,
+  "par": 72,
+  "standings": [
+    {
+      "name": "Eli",
+      "color": "#0d47a1",
+      "total_strokes": 0,
+      "round_totals": {
+        "R1": 0,
+        "R2": 0,
+        "R3": 0,
+        "R4": 0
+      },
+      "golfers": [
+        {
+          "dg_id": 15796,
+          "name": "Patrick Cantlay",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 14636,
+          "name": "Tony Finau",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15468,
+          "name": "Hideki Matsuyama",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 14636,
+          "name": "Shane Lowry",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 18417,
+          "name": "Viktor Hovland",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 23950,
+          "name": "Ludvig Aberg",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 17217,
+          "name": "Cameron Smith",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15466,
+          "name": "Jordan Spieth",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        }
+      ],
+      "rank": 1,
+      "strokes_behind": 0
+    },
+    {
+      "name": "Eric",
+      "color": "#e65100",
+      "total_strokes": 0,
+      "round_totals": {
+        "R1": 0,
+        "R2": 0,
+        "R3": 0,
+        "R4": 0
+      },
+      "golfers": [
+        {
+          "dg_id": 23462,
+          "name": "Bryson DeChambeau",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15257,
+          "name": "Russell Henley",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15460,
+          "name": "Cameron Young",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15363,
+          "name": "Patrick Reed",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15490,
+          "name": "Keegan Bradley",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15488,
+          "name": "Corey Conners",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15631,
+          "name": "Sepp Straka",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 14237,
+          "name": "Sergio Garcia",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        }
+      ],
+      "rank": 2,
+      "strokes_behind": 0
+    },
+    {
+      "name": "Preston",
+      "color": "#b71c1c",
+      "total_strokes": 141,
+      "round_totals": {
+        "R1": 72,
+        "R2": 69,
+        "R3": 0,
+        "R4": 0
+      },
+      "golfers": [
+        {
+          "dg_id": 15636,
+          "name": "Brooks Koepka",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 18440,
+          "name": "Joaquin Niemann",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 17562,
+          "name": "Akshay Bhatia",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15891,
+          "name": "Daniel Berger",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15530,
+          "name": "Tommy Fleetwood",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 18522,
+          "name": "Robert MacIntyre",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 22833,
+          "name": "Min Woo Lee",
+          "R1": 72,
+          "R2": 69,
+          "R3": null,
+          "R4": null,
+          "current_pos": "CUT",
+          "current_score": 1,
+          "today": 0,
+          "thru": 0,
+          "round": 2,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": true,
+            "R2": true,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15447,
+          "name": "Adam Scott",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        }
+      ],
+      "rank": 3,
+      "strokes_behind": 141
+    },
+    {
+      "name": "Corey",
+      "color": "#1b5e20",
+      "total_strokes": 266,
+      "round_totals": {
+        "R1": 134,
+        "R2": 132,
+        "R3": 0,
+        "R4": 0
+      },
+      "golfers": [
+        {
+          "dg_id": 12577,
+          "name": "Gary Woodland",
+          "R1": 64,
+          "R2": 63,
+          "R3": 65,
+          "R4": 67,
+          "current_pos": "1",
+          "current_score": -21,
+          "today": -3,
+          "thru": 18,
+          "round": 4,
+          "make_cut": 1.0,
+          "counting": {
+            "R1": true,
+            "R2": true,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 19428,
+          "name": "Will Zalatoris",
+          "R1": 70,
+          "R2": 69,
+          "R3": null,
+          "R4": null,
+          "current_pos": "CUT",
+          "current_score": -1,
+          "today": 0,
+          "thru": 0,
+          "round": 2,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": true,
+            "R2": true,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 18854,
+          "name": "Scottie Scheffler",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15503,
+          "name": "Rory McIlroy",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 17536,
+          "name": "Collin Morikawa",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 14062,
+          "name": "Justin Thomas",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 16081,
+          "name": "Jon Rahm",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        },
+        {
+          "dg_id": 15682,
+          "name": "Xander Schauffele",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "",
+          "current_score": null,
+          "today": null,
+          "thru": null,
+          "round": null,
+          "make_cut": 0.0,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false
+        }
+      ],
+      "rank": 4,
+      "strokes_behind": 266
+    }
+  ]
+}

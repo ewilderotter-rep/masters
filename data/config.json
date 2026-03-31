@@ -1,0 +1,23 @@
+{
+  "tournament": "The Masters",
+  "year": 2026,
+  "course": "Augusta National Golf Club",
+  "par": 72,
+  "rounds": {
+    "R1": { "day": "Thursday", "date": "2026-04-09", "count_top": 6 },
+    "R2": { "day": "Friday", "date": "2026-04-10", "count_top": 6 },
+    "R3": { "day": "Saturday", "date": "2026-04-11", "count_all": true },
+    "R4": { "day": "Sunday", "date": "2026-04-12", "count_all": true }
+  },
+  "draft": {
+    "rounds": 8,
+    "order": ["Corey", "Eli", "Preston", "Eric"],
+    "snake": true
+  },
+  "participants": {
+    "Corey": { "color": "#1b5e20" },
+    "Eli": { "color": "#0d47a1" },
+    "Preston": { "color": "#b71c1c" },
+    "Eric": { "color": "#e65100" }
+  }
+}

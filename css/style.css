@@ -1,0 +1,510 @@
+/* ── Masters Friendship Competition ─────────────────────── */
+
+:root {
+  --masters-green: #006747;
+  --masters-dark: #004d35;
+  --masters-gold: #c8a951;
+  --masters-cream: #f5f0e1;
+  --bg: #fafaf5;
+  --text: #1a1a1a;
+  --text-muted: #666;
+  --border: #ddd;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --radius: 8px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ── Header ───────────────────────────────────────────── */
+
+header {
+  background: var(--masters-green);
+  color: white;
+  text-align: center;
+  padding: 1.5rem 1rem 0;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.subtitle {
+  font-size: 0.9rem;
+  color: var(--masters-gold);
+  margin-top: 0.25rem;
+  font-style: italic;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  margin-top: 1rem;
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.95rem;
+  border-bottom: 3px solid transparent;
+  transition: all 0.2s;
+}
+
+.nav-link:hover {
+  color: white;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.nav-link.active {
+  color: white;
+  border-bottom-color: var(--masters-gold);
+}
+
+/* ── Main ─────────────────────────────────────────────── */
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+
+.view { display: none; }
+.view.active { display: block; }
+
+/* ── Leaderboard ──────────────────────────────────────── */
+
+.standings-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.standings-table th {
+  background: var(--masters-dark);
+  color: white;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.standings-table th:last-child,
+.standings-table td:last-child {
+  text-align: right;
+}
+
+.team-row {
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.team-row:hover {
+  background: var(--masters-cream);
+}
+
+.team-row td {
+  padding: 0.9rem 1rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 1rem;
+}
+
+.team-row .rank {
+  font-weight: 700;
+  width: 40px;
+  text-align: center;
+}
+
+.team-row .name {
+  font-weight: 600;
+}
+
+.team-row .color-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.team-row .strokes {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.team-row .behind {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* Golfer detail rows */
+.golfer-rows { display: none; }
+.golfer-rows.open { display: table-row-group; }
+
+.golfer-row td {
+  padding: 0.5rem 1rem 0.5rem 2.5rem;
+  font-size: 0.85rem;
+  border-bottom: 1px solid #f0f0f0;
+  color: var(--text-muted);
+}
+
+.golfer-row .golfer-name {
+  font-weight: 500;
+  color: var(--text);
+}
+
+.golfer-row.counting .golfer-name {
+  color: var(--masters-green);
+  font-weight: 600;
+}
+
+.golfer-row.not-counting {
+  opacity: 0.5;
+}
+
+.golfer-row .score-cell {
+  text-align: center;
+  width: 50px;
+}
+
+.golfer-row .pos-cell {
+  width: 60px;
+  text-align: right;
+}
+
+.cut-badge {
+  background: #c62828;
+  color: white;
+  font-size: 0.7rem;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+
+/* ── Draft ────────────────────────────────────────────── */
+
+.draft-header {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.draft-status {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.on-the-clock {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.pick-info {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+.identity-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.identity-bar label {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.identity-bar select {
+  font-family: inherit;
+  font-size: 0.95rem;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: white;
+}
+
+.draft-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .draft-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+.available-panel, .board-panel {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.panel-title {
+  background: var(--masters-dark);
+  color: white;
+  padding: 0.6rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.search-box {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.search-box input {
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.player-list {
+  max-height: 400px;
+  overflow-y: auto;
+  list-style: none;
+}
+
+.player-list li {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #f5f5f5;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.15s;
+  font-size: 0.9rem;
+}
+
+.player-list li:hover {
+  background: var(--masters-cream);
+}
+
+.player-list li.disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.player-list li .rank-badge {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.pick-btn {
+  background: var(--masters-green);
+  color: white;
+  border: none;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.pick-btn:hover { background: var(--masters-dark); }
+.pick-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+/* Draft board */
+.draft-board {
+  padding: 0.75rem;
+}
+
+.draft-board-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+
+.draft-column h4 {
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 0.4rem;
+  border-radius: 4px;
+  color: white;
+  margin-bottom: 0.4rem;
+}
+
+.draft-slot {
+  font-size: 0.75rem;
+  padding: 0.35rem 0.5rem;
+  background: #f5f5f5;
+  border-radius: 3px;
+  margin-bottom: 3px;
+  min-height: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.draft-slot.filled {
+  background: var(--masters-cream);
+  font-weight: 500;
+}
+
+.draft-slot .pick-num {
+  color: var(--text-muted);
+  font-size: 0.65rem;
+  margin-right: 4px;
+}
+
+/* ── Weekend Selector ─────────────────────────────────── */
+
+.weekend-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+@media (max-width: 600px) {
+  .weekend-grid { grid-template-columns: 1fr; }
+}
+
+.weekend-card {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.weekend-card-header {
+  padding: 0.75rem 1rem;
+  color: white;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.weekend-golfer {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid #f5f5f5;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.weekend-golfer input[type="checkbox"] {
+  accent-color: var(--masters-green);
+}
+
+.weekend-golfer.missed-cut {
+  opacity: 0.35;
+  text-decoration: line-through;
+}
+
+.weekend-golfer .golfer-status {
+  font-size: 0.75rem;
+  margin-left: auto;
+}
+
+.weekend-submit {
+  display: block;
+  width: calc(100% - 2rem);
+  margin: 0.75rem 1rem;
+  padding: 0.6rem;
+  background: var(--masters-green);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.weekend-submit:hover { background: var(--masters-dark); }
+.weekend-submit:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.weekend-locked {
+  padding: 0.75rem 1rem;
+  text-align: center;
+  color: var(--masters-green);
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+/* ── Chart ────────────────────────────────────────────── */
+
+#standings-chart {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+/* ── Footer ───────────────────────────────────────────── */
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* ── Utility ──────────────────────────────────────────── */
+
+.loading {
+  text-align: center;
+  padding: 3rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.error-msg {
+  background: #ffebee;
+  color: #c62828;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.toast {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  background: var(--masters-dark);
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.3s;
+  z-index: 100;
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
