@@ -195,6 +195,105 @@ main {
   font-weight: 600;
 }
 
+/* Holes remaining column -- slightly muted */
+.holes-cell {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* vs Par ─────────────────────────────────────────────── */
+
+.under-par { color: #1b5e20; font-weight: 700; }
+.over-par  { color: #b71c1c; font-weight: 700; }
+
+.vs-par-card {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-top: 1.25rem;
+  overflow: hidden;
+}
+
+.vs-par-title {
+  background: var(--masters-dark);
+  color: white;
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.vs-par-subtitle {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: rgba(255,255,255,0.65);
+  margin-left: 0.5rem;
+  font-style: italic;
+}
+
+.vs-par-grid {
+  padding: 0.25rem 0;
+}
+
+.vs-par-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid #f5f5f5;
+  font-size: 0.9rem;
+}
+
+.vs-par-row:last-child { border-bottom: none; }
+
+.vp-rank {
+  width: 20px;
+  font-weight: 700;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.vp-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.vp-name {
+  font-weight: 600;
+  width: 70px;
+}
+
+.vp-breakdown {
+  flex: 1;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.vp-round {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  background: #f5f5f5;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.vp-score {
+  font-size: 1.1rem;
+  font-weight: 700;
+  min-width: 40px;
+  text-align: right;
+}
+
+.vp-behind {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  min-width: 32px;
+  text-align: right;
+}
+
 /* ── Draft ────────────────────────────────────────────── */
 
 .draft-header {
