@@ -294,6 +294,52 @@ main {
   text-align: right;
 }
 
+/* ── Mobile ───────────────────────────────────────────── */
+
+@media (max-width: 480px) {
+
+  /* Header */
+  header h1 { font-size: 1.3rem; }
+  .subtitle { font-size: 0.8rem; }
+
+  /* Nav -- tighter, full width */
+  nav { justify-content: stretch; }
+  .nav-link {
+    flex: 1;
+    text-align: center;
+    padding: 0.6rem 0.25rem;
+    font-size: 0.8rem;
+  }
+
+  /* Main */
+  main { padding: 1rem 0.5rem; }
+
+  /* Standings table: hide R1-R4 round columns, keep Rank/Team/Holes/Total */
+  .standings-table th.hide-mobile,
+  .standings-table td.hide-mobile { display: none; }
+
+  /* Tighter table cells on mobile */
+  .team-row td { padding: 0.75rem 0.5rem; }
+  .standings-table th { padding: 0.6rem 0.5rem; font-size: 0.75rem; }
+
+  /* Golfer rows: also hide round columns */
+  .golfer-row td { padding: 0.45rem 0.5rem 0.45rem 1rem; font-size: 0.8rem; }
+
+  /* vs par breakdown chips wrap fine -- just reduce gap */
+  .vp-breakdown { gap: 0.25rem; }
+  .vs-par-row { padding: 0.55rem 0.75rem; font-size: 0.85rem; }
+
+  /* Draft board: allow horizontal scroll */
+  .draft-board { overflow-x: auto; padding: 0.5rem; }
+  .draft-board-grid { min-width: 320px; }
+  .draft-slot { font-size: 0.65rem; padding: 0.25rem 0.35rem; }
+  .draft-column h4 { font-size: 0.7rem; }
+
+  /* Player list touch targets */
+  .player-list li { padding: 0.75rem 0.75rem; }
+  .pick-btn { padding: 6px 14px; font-size: 0.85rem; }
+}
+
 /* ── Draft ────────────────────────────────────────────── */
 
 .draft-header {

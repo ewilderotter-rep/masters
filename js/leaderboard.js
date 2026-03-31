@@ -30,10 +30,10 @@ const Leaderboard = (() => {
       <thead><tr>
         <th>Rank</th>
         <th>Team</th>
-        <th>R1</th>
-        <th>R2</th>
-        <th>R3</th>
-        <th>R4</th>
+        <th class="hide-mobile">R1</th>
+        <th class="hide-mobile">R2</th>
+        <th class="hide-mobile">R3</th>
+        <th class="hide-mobile">R4</th>
         <th title="Total holes remaining for counting golfers">Holes</th>
         <th>Total</th>
       </tr></thead>
@@ -47,10 +47,10 @@ const Leaderboard = (() => {
       html += `<tr class="team-row" data-team="${idx}">
         <td class="rank">${team.rank}</td>
         <td class="name"><span class="color-dot" style="background:${team.color}"></span>${team.name}</td>
-        <td class="score-cell">${rt.R1 || '-'}</td>
-        <td class="score-cell">${rt.R2 || '-'}</td>
-        <td class="score-cell">${rt.R3 || '-'}</td>
-        <td class="score-cell">${rt.R4 || '-'}</td>
+        <td class="score-cell hide-mobile">${rt.R1 || '-'}</td>
+        <td class="score-cell hide-mobile">${rt.R2 || '-'}</td>
+        <td class="score-cell hide-mobile">${rt.R3 || '-'}</td>
+        <td class="score-cell hide-mobile">${rt.R4 || '-'}</td>
         <td class="score-cell holes-cell">${holesLeft}</td>
         <td><span class="strokes">${team.total_strokes || '-'}</span> <span class="behind">${behind}</span></td>
       </tr>`;
@@ -68,10 +68,10 @@ const Leaderboard = (() => {
         html += `<tr class="golfer-row ${rowClass}">
           <td></td>
           <td class="golfer-name">${g.name}${cutBadge}</td>
-          <td class="score-cell">${g.R1 != null ? g.R1 : '-'}</td>
-          <td class="score-cell">${g.R2 != null ? g.R2 : '-'}</td>
-          <td class="score-cell">${g.R3 != null ? g.R3 : '-'}</td>
-          <td class="score-cell">${g.R4 != null ? g.R4 : '-'}</td>
+          <td class="score-cell hide-mobile">${g.R1 != null ? g.R1 : '-'}</td>
+          <td class="score-cell hide-mobile">${g.R2 != null ? g.R2 : '-'}</td>
+          <td class="score-cell hide-mobile">${g.R3 != null ? g.R3 : '-'}</td>
+          <td class="score-cell hide-mobile">${g.R4 != null ? g.R4 : '-'}</td>
           <td class="score-cell holes-cell">${gHoles}</td>
           <td class="pos-cell">${pos} ${thru !== '-' ? '(' + thru + ')' : ''}</td>
         </tr>`;
