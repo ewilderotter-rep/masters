@@ -1,0 +1,30 @@
+name: Fetch Tournament Field
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  fetch-field:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Fetch field
+        env:
+          DATA_GOLF_API_KEY: ${{ secrets.DATA_GOLF_API_KEY }}
+        run: python scripts/fetch_field.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "masters-bot"
+          git config user.email "bot@masters-comp"
+          git add data/field.json
+          git diff --cached --quiet || git commit -m "Update field $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

@@ -11,7 +11,7 @@
   },
   "draft": {
     "rounds": 8,
-    "order": ["Corey", "Eli", "Preston", "Eric"],
+    "order": ["Eli", "Corey", "Preston", "Eric"],
     "snake": true
   },
   "apps_script_url": "https://script.google.com/macros/s/AKfycbxPb3jpYF0qSSoJ-EAh5cAM8TWueqmsmT7oqv7Mn9cin3MQ7s9PwJP0Xo5jCdR_0Y0aCQ/exec",

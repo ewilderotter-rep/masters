@@ -1,0 +1,35 @@
+name: Poll Masters Scores
+
+on:
+  schedule:
+    # Every 5 minutes during tournament hours (11:00-23:55 UTC = ~6am-7pm CT)
+    # April 7-13 to cover practice rounds + tournament
+    - cron: '*/5 11-23 7-13 4 *'
+  workflow_dispatch: # Manual trigger for testing
+
+jobs:
+  update-scores:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Fetch scores and compute standings
+        env:
+          DATA_GOLF_API_KEY: ${{ secrets.DATA_GOLF_API_KEY }}
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+        run: python scripts/update_data.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "masters-bot"
+          git config user.email "bot@masters-comp"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update scores $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
