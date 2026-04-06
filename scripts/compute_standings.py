@@ -237,13 +237,32 @@ def append_history(standings):
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "scores": {s["name"]: s["total_strokes"] for s in standings},
     }
+
+    # Guard: refuse to append empty score snapshot if previous had data
+    if not snapshot["scores"]:
+        if history and history[-1].get("scores"):
+            print("ERROR: score snapshot is empty while previous snapshot had data; skipping history append")
+            return False
+
     history.append(snapshot)
 
     with open(history_path, "w") as f:
         json.dump(history, f, indent=2)
+    return True
 
 
 def save_standings(standings_json):
     out_path = os.path.join(DATA_DIR, "standings.json")
+
+    # Guard: refuse to overwrite non-empty standings with an empty result
+    if not standings_json.get("standings"):
+        if os.path.exists(out_path):
+            with open(out_path) as f:
+                prev = json.load(f)
+            if prev.get("standings"):
+                print("ERROR: standings computation returned empty results; keeping previous standings")
+                return False
+
     with open(out_path, "w") as f:
         json.dump(standings_json, f, indent=2)
+    return True
