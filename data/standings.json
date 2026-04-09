@@ -1,9 +1,417 @@
 {
-  "last_updated": "2026-04-09T17:37:01.149058+00:00",
+  "last_updated": "2026-04-09T18:37:56.067424+00:00",
   "event_name": "Masters Tournament",
   "current_round": 1,
   "par": 72,
   "standings": [
+    {
+      "name": "Eric",
+      "color": "#e65100",
+      "total_strokes": 424,
+      "round_totals": {
+        "R1": 424,
+        "R2": 0,
+        "R3": 0,
+        "R4": 0
+      },
+      "vs_par": -8,
+      "vs_par_by_round": {
+        "R1": -8
+      },
+      "holes_remaining": 147,
+      "golfers": [
+        {
+          "dg_id": 10091,
+          "name": "Rory McIlroy",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T2",
+          "current_score": -3,
+          "today": -3,
+          "thru": 13,
+          "round": 1,
+          "make_cut": 0.9852,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 69,
+          "holes_remaining": 23
+        },
+        {
+          "dg_id": 23950,
+          "name": "Ludvig Aberg",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T9",
+          "current_score": -2,
+          "today": -2,
+          "thru": 5,
+          "round": 1,
+          "make_cut": 0.9454,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 70,
+          "holes_remaining": 31
+        },
+        {
+          "dg_id": 13562,
+          "name": "Hideki Matsuyama",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 14,
+          "round": 1,
+          "make_cut": 0.84196,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 73,
+          "holes_remaining": 22
+        },
+        {
+          "dg_id": 16841,
+          "name": "Min Woo Lee",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T61",
+          "current_score": 3,
+          "today": 3,
+          "thru": 7,
+          "round": 1,
+          "make_cut": 0.6258,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 75,
+          "holes_remaining": 29
+        },
+        {
+          "dg_id": 26096,
+          "name": "Akshay Bhatia",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T24",
+          "current_score": 0,
+          "today": 0,
+          "thru": 16,
+          "round": 1,
+          "make_cut": 0.86892,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 72,
+          "holes_remaining": 20
+        },
+        {
+          "dg_id": 27774,
+          "name": "Chris Gotterup",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T16",
+          "current_score": -1,
+          "today": -1,
+          "thru": 5,
+          "round": 1,
+          "make_cut": 0.8436,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 71,
+          "holes_remaining": 31
+        },
+        {
+          "dg_id": 9771,
+          "name": "Jason Day",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T2",
+          "current_score": -3,
+          "today": -3,
+          "thru": 16,
+          "round": 1,
+          "make_cut": 0.97704,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 69,
+          "holes_remaining": 20
+        },
+        {
+          "dg_id": 29433,
+          "name": "Jacob Bridgeman",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 7,
+          "round": 1,
+          "make_cut": 0.7452,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 73,
+          "holes_remaining": 29
+        }
+      ],
+      "rank": 1,
+      "strokes_behind": 0
+    },
+    {
+      "name": "Eli",
+      "color": "#0d47a1",
+      "total_strokes": 427,
+      "round_totals": {
+        "R1": 427,
+        "R2": 0,
+        "R3": 0,
+        "R4": 0
+      },
+      "vs_par": -5,
+      "vs_par_by_round": {
+        "R1": -5
+      },
+      "holes_remaining": 190,
+      "golfers": [
+        {
+          "dg_id": 18417,
+          "name": "Scottie Scheffler",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T2",
+          "current_score": -3,
+          "today": -3,
+          "thru": 3,
+          "round": 1,
+          "make_cut": 0.98364,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 69,
+          "holes_remaining": 33
+        },
+        {
+          "dg_id": 26651,
+          "name": "Cameron Young",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T54",
+          "current_score": 2,
+          "today": 2,
+          "thru": 13,
+          "round": 1,
+          "make_cut": 0.73352,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 74,
+          "holes_remaining": 23
+        },
+        {
+          "dg_id": 12920,
+          "name": "Matt Fitzpatrick",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 9,
+          "round": 1,
+          "make_cut": 0.39192,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 73,
+          "holes_remaining": 27
+        },
+        {
+          "dg_id": 16243,
+          "name": "Brooks Koepka",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T16",
+          "current_score": -1,
+          "today": -1,
+          "thru": 4,
+          "round": 1,
+          "make_cut": 0.80124,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 71,
+          "holes_remaining": 32
+        },
+        {
+          "dg_id": 14609,
+          "name": "Si Woo Kim",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 2,
+          "round": 1,
+          "make_cut": 0.73584,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 73,
+          "holes_remaining": 34
+        },
+        {
+          "dg_id": 17511,
+          "name": "Sepp Straka",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T16",
+          "current_score": -1,
+          "today": -1,
+          "thru": 4,
+          "round": 1,
+          "make_cut": 0.81016,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 71,
+          "holes_remaining": 32
+        },
+        {
+          "dg_id": 14139,
+          "name": "Justin Thomas",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T9",
+          "current_score": -2,
+          "today": -2,
+          "thru": 4,
+          "round": 1,
+          "make_cut": 0.88264,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 70,
+          "holes_remaining": 32
+        },
+        {
+          "dg_id": 17576,
+          "name": "Corey Conners",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 6,
+          "round": 1,
+          "make_cut": 0.642,
+          "counting": {
+            "R1": false,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 73,
+          "holes_remaining": 30
+        }
+      ],
+      "rank": 2,
+      "strokes_behind": 3
+    },
     {
       "name": "Corey",
       "color": "#1b5e20",
@@ -18,7 +426,7 @@
       "vs_par_by_round": {
         "R1": -5
       },
-      "holes_remaining": 175,
+      "holes_remaining": 146,
       "golfers": [
         {
           "dg_id": 17646,
@@ -27,21 +435,21 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T50",
-          "current_score": 2,
-          "today": 2,
-          "thru": 11,
+          "current_pos": "T24",
+          "current_score": 0,
+          "today": 0,
+          "thru": 14,
           "round": 1,
-          "make_cut": 0.76444,
+          "make_cut": 0.91428,
           "counting": {
-            "R1": false,
+            "R1": true,
             "R2": false,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
-          "R1_est": 74,
-          "holes_remaining": 25
+          "R1_est": 72,
+          "holes_remaining": 22
         },
         {
           "dg_id": 12294,
@@ -50,12 +458,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T5",
+          "current_pos": "T9",
           "current_score": -2,
           "today": -2,
-          "thru": 12,
+          "thru": 16,
           "round": 1,
-          "make_cut": 0.97412,
+          "make_cut": 0.9794,
           "counting": {
             "R1": true,
             "R2": false,
@@ -64,7 +472,7 @@
           },
           "is_weekend": false,
           "R1_est": 70,
-          "holes_remaining": 24
+          "holes_remaining": 20
         },
         {
           "dg_id": 22085,
@@ -73,80 +481,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T35",
-          "current_score": 1,
-          "today": 1,
-          "thru": 10,
-          "round": 1,
-          "make_cut": 0.77884,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 73,
-          "holes_remaining": 26
-        },
-        {
-          "dg_id": 14838,
-          "name": "Patrick Reed",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T1",
-          "current_score": -4,
-          "today": -4,
-          "thru": 12,
-          "round": 1,
-          "make_cut": 0.98728,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 68,
-          "holes_remaining": 24
-        },
-        {
-          "dg_id": 14636,
-          "name": "Jordan Spieth",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.8114,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
-        },
-        {
-          "dg_id": 19396,
-          "name": "Jake Knapp",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T50",
+          "current_pos": "T54",
           "current_score": 2,
           "today": 2,
           "thru": 14,
           "round": 1,
-          "make_cut": 0.67548,
+          "make_cut": 0.70152,
           "counting": {
             "R1": false,
             "R2": false,
@@ -158,18 +498,18 @@
           "holes_remaining": 22
         },
         {
-          "dg_id": 14577,
-          "name": "Harris English",
+          "dg_id": 14838,
+          "name": "Patrick Reed",
           "R1": null,
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
+          "current_pos": "T2",
+          "current_score": -3,
+          "today": -3,
+          "thru": 16,
           "round": 1,
-          "make_cut": 0.77212,
+          "make_cut": 0.9816,
           "counting": {
             "R1": true,
             "R2": false,
@@ -177,156 +517,22 @@
             "R4": false
           },
           "is_weekend": false,
-          "holes_remaining": 36
+          "R1_est": 69,
+          "holes_remaining": 20
         },
         {
-          "dg_id": 23602,
-          "name": "Nicolai Hojgaard",
+          "dg_id": 14636,
+          "name": "Jordan Spieth",
           "R1": null,
           "R2": null,
           "R3": null,
           "R4": null,
           "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 7,
-          "round": 1,
-          "make_cut": 0.82928,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
-          "holes_remaining": 29
-        }
-      ],
-      "rank": 1,
-      "strokes_behind": 0
-    },
-    {
-      "name": "Eric",
-      "color": "#e65100",
-      "total_strokes": 427,
-      "round_totals": {
-        "R1": 427,
-        "R2": 0,
-        "R3": 0,
-        "R4": 0
-      },
-      "vs_par": -5,
-      "vs_par_by_round": {
-        "R1": -5
-      },
-      "holes_remaining": 169,
-      "golfers": [
-        {
-          "dg_id": 10091,
-          "name": "Rory McIlroy",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T5",
-          "current_score": -2,
-          "today": -2,
-          "thru": 10,
-          "round": 1,
-          "make_cut": 0.96572,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 70,
-          "holes_remaining": 26
-        },
-        {
-          "dg_id": 23950,
-          "name": "Ludvig Aberg",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 1,
-          "round": 1,
-          "make_cut": 0.85576,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
-          "holes_remaining": 35
-        },
-        {
-          "dg_id": 13562,
-          "name": "Hideki Matsuyama",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 10,
-          "round": 1,
-          "make_cut": 0.88104,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
-          "holes_remaining": 26
-        },
-        {
-          "dg_id": 16841,
-          "name": "Min Woo Lee",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T35",
-          "current_score": 1,
-          "today": 1,
-          "thru": 4,
-          "round": 1,
-          "make_cut": 0.75724,
-          "counting": {
-            "R1": false,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 73,
-          "holes_remaining": 32
-        },
-        {
-          "dg_id": 26096,
-          "name": "Akshay Bhatia",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T12",
           "current_score": -1,
           "today": -1,
-          "thru": 12,
+          "thru": 4,
           "round": 1,
-          "make_cut": 0.90716,
+          "make_cut": 0.86848,
           "counting": {
             "R1": true,
             "R2": false,
@@ -335,266 +541,66 @@
           },
           "is_weekend": false,
           "R1_est": 71,
-          "holes_remaining": 24
-        },
-        {
-          "dg_id": 27774,
-          "name": "Chris Gotterup",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 1,
-          "round": 1,
-          "make_cut": 0.76232,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
-          "holes_remaining": 35
-        },
-        {
-          "dg_id": 9771,
-          "name": "Jason Day",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T5",
-          "current_score": -2,
-          "today": -2,
-          "thru": 13,
-          "round": 1,
-          "make_cut": 0.93888,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 70,
-          "holes_remaining": 23
-        },
-        {
-          "dg_id": 29433,
-          "name": "Jacob Bridgeman",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 4,
-          "round": 1,
-          "make_cut": 0.77444,
-          "counting": {
-            "R1": false,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
           "holes_remaining": 32
-        }
-      ],
-      "rank": 2,
-      "strokes_behind": 0
-    },
-    {
-      "name": "Eli",
-      "color": "#0d47a1",
-      "total_strokes": 432,
-      "round_totals": {
-        "R1": 432,
-        "R2": 0,
-        "R3": 0,
-        "R4": 0
-      },
-      "vs_par": 0,
-      "vs_par_by_round": {
-        "R1": 0
-      },
-      "holes_remaining": 210,
-      "golfers": [
-        {
-          "dg_id": 18417,
-          "name": "Scottie Scheffler",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.9284,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
         },
         {
-          "dg_id": 26651,
-          "name": "Cameron Young",
-          "R1": null,
+          "dg_id": 19396,
+          "name": "Jake Knapp",
+          "R1": 73,
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T61",
-          "current_score": 4,
-          "today": 4,
-          "thru": 10,
-          "round": 1,
-          "make_cut": 0.48224,
-          "counting": {
-            "R1": false,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 76,
-          "holes_remaining": 26
-        },
-        {
-          "dg_id": 12920,
-          "name": "Matt Fitzpatrick",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T16",
-          "current_score": 0,
-          "today": 0,
-          "thru": 6,
-          "round": 1,
-          "make_cut": 0.50048,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "R1_est": 72,
-          "holes_remaining": 30
-        },
-        {
-          "dg_id": 16243,
-          "name": "Brooks Koepka",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.72252,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
-        },
-        {
-          "dg_id": 14609,
-          "name": "Si Woo Kim",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.83264,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
-        },
-        {
-          "dg_id": 17511,
-          "name": "Sepp Straka",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.72428,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
-        },
-        {
-          "dg_id": 14139,
-          "name": "Justin Thomas",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
-          "round": 1,
-          "make_cut": 0.75536,
-          "counting": {
-            "R1": true,
-            "R2": false,
-            "R3": false,
-            "R4": false
-          },
-          "is_weekend": false,
-          "holes_remaining": 36
-        },
-        {
-          "dg_id": 17576,
-          "name": "Corey Conners",
-          "R1": null,
-          "R2": null,
-          "R3": null,
-          "R4": null,
-          "current_pos": "T35",
+          "current_pos": "T41",
           "current_score": 1,
           "today": 1,
-          "thru": 3,
+          "thru": 18,
           "round": 1,
-          "make_cut": 0.60028,
+          "make_cut": 0.83936,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "holes_remaining": 18
+        },
+        {
+          "dg_id": 14577,
+          "name": "Harris English",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T24",
+          "current_score": 0,
+          "today": 0,
+          "thru": 2,
+          "round": 1,
+          "make_cut": 0.75492,
+          "counting": {
+            "R1": true,
+            "R2": false,
+            "R3": false,
+            "R4": false
+          },
+          "is_weekend": false,
+          "R1_est": 72,
+          "holes_remaining": 34
+        },
+        {
+          "dg_id": 23602,
+          "name": "Nicolai Hojgaard",
+          "R1": null,
+          "R2": null,
+          "R3": null,
+          "R4": null,
+          "current_pos": "T41",
+          "current_score": 1,
+          "today": 1,
+          "thru": 10,
+          "round": 1,
+          "make_cut": 0.7474,
           "counting": {
             "R1": false,
             "R2": false,
@@ -603,27 +609,27 @@
           },
           "is_weekend": false,
           "R1_est": 73,
-          "holes_remaining": 33
+          "holes_remaining": 26
         }
       ],
       "rank": 3,
-      "strokes_behind": 5
+      "strokes_behind": 3
     },
     {
       "name": "Preston",
       "color": "#b71c1c",
-      "total_strokes": 432,
+      "total_strokes": 430,
       "round_totals": {
-        "R1": 432,
+        "R1": 430,
         "R2": 0,
         "R3": 0,
         "R4": 0
       },
-      "vs_par": 0,
+      "vs_par": -2,
       "vs_par_by_round": {
-        "R1": 0
+        "R1": -2
       },
-      "holes_remaining": 192,
+      "holes_remaining": 168,
       "golfers": [
         {
           "dg_id": 19195,
@@ -632,12 +638,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T35",
-          "current_score": 1,
-          "today": 1,
-          "thru": 1,
+          "current_pos": "T54",
+          "current_score": 2,
+          "today": 2,
+          "thru": 5,
           "round": 1,
-          "make_cut": 0.86216,
+          "make_cut": 0.79176,
           "counting": {
             "R1": true,
             "R2": false,
@@ -645,8 +651,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "R1_est": 73,
-          "holes_remaining": 35
+          "R1_est": 74,
+          "holes_remaining": 31
         },
         {
           "dg_id": 19895,
@@ -655,12 +661,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T5",
+          "current_pos": "T9",
           "current_score": -2,
           "today": -2,
-          "thru": 11,
+          "thru": 14,
           "round": 1,
-          "make_cut": 0.97176,
+          "make_cut": 0.97664,
           "counting": {
             "R1": true,
             "R2": false,
@@ -669,7 +675,7 @@
           },
           "is_weekend": false,
           "R1_est": 70,
-          "holes_remaining": 25
+          "holes_remaining": 22
         },
         {
           "dg_id": 23323,
@@ -678,12 +684,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
+          "current_pos": "T16",
+          "current_score": -1,
+          "today": -1,
+          "thru": 3,
           "round": 1,
-          "make_cut": 0.85316,
+          "make_cut": 0.89664,
           "counting": {
             "R1": true,
             "R2": false,
@@ -691,7 +697,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "holes_remaining": 36
+          "R1_est": 71,
+          "holes_remaining": 33
         },
         {
           "dg_id": 6093,
@@ -700,12 +707,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "--",
-          "current_score": 0,
-          "today": 0,
-          "thru": 0,
+          "current_pos": "T9",
+          "current_score": -2,
+          "today": -2,
+          "thru": 4,
           "round": 1,
-          "make_cut": 0.78868,
+          "make_cut": 0.89656,
           "counting": {
             "R1": true,
             "R2": false,
@@ -713,7 +720,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "holes_remaining": 36
+          "R1_est": 70,
+          "holes_remaining": 32
         },
         {
           "dg_id": 14578,
@@ -722,12 +730,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T16",
+          "current_pos": "T24",
           "current_score": 0,
           "today": 0,
-          "thru": 10,
+          "thru": 14,
           "round": 1,
-          "make_cut": 0.86596,
+          "make_cut": 0.90108,
           "counting": {
             "R1": true,
             "R2": false,
@@ -736,7 +744,7 @@
           },
           "is_weekend": false,
           "R1_est": 72,
-          "holes_remaining": 26
+          "holes_remaining": 22
         },
         {
           "dg_id": 18634,
@@ -745,21 +753,21 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T35",
-          "current_score": 1,
-          "today": 1,
-          "thru": 2,
+          "current_pos": "T61",
+          "current_score": 3,
+          "today": 3,
+          "thru": 6,
           "round": 1,
-          "make_cut": 0.6734,
+          "make_cut": 0.50844,
           "counting": {
-            "R1": true,
+            "R1": false,
             "R2": false,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
-          "R1_est": 73,
-          "holes_remaining": 34
+          "R1_est": 75,
+          "holes_remaining": 30
         },
         {
           "dg_id": 15466,
@@ -768,12 +776,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T50",
-          "current_score": 2,
-          "today": 2,
-          "thru": 9,
+          "current_pos": "T69",
+          "current_score": 4,
+          "today": 4,
+          "thru": 12,
           "round": 1,
-          "make_cut": 0.60164,
+          "make_cut": 0.42976,
           "counting": {
             "R1": false,
             "R2": false,
@@ -781,8 +789,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "R1_est": 74,
-          "holes_remaining": 27
+          "R1_est": 76,
+          "holes_remaining": 24
         },
         {
           "dg_id": 6430,
@@ -791,25 +799,25 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T35",
+          "current_pos": "T41",
           "current_score": 1,
           "today": 1,
-          "thru": 5,
+          "thru": 8,
           "round": 1,
-          "make_cut": 0.70764,
+          "make_cut": 0.71324,
           "counting": {
-            "R1": false,
+            "R1": true,
             "R2": false,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
           "R1_est": 73,
-          "holes_remaining": 31
+          "holes_remaining": 28
         }
       ],
       "rank": 4,
-      "strokes_behind": 5
+      "strokes_behind": 6
     }
   ]
 }
