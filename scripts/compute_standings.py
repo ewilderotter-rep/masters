@@ -68,13 +68,19 @@ def compute_team_score(team_golfers, score_lookup, config):
         }
         golfer_details.append(detail)
 
-    # Thu/Fri: best 6 of 8 per round
+    # Thu/Fri: best 6 of 8 per round (includes in-progress estimated scores)
     for rnd in ["R1", "R2"]:
+        rnd_num = int(rnd[1])
         round_scores = []
         for detail in golfer_details:
             strokes = detail.get(rnd)
             if strokes is not None:
+                # Completed round
                 round_scores.append((detail["dg_id"], strokes))
+            elif detail.get("round") == rnd_num and detail.get("thru", 0) > 0:
+                # In-progress: estimate as PAR + today
+                est = PAR + (detail.get("today") or 0)
+                round_scores.append((detail["dg_id"], est))
 
         round_scores.sort(key=lambda x: x[1])
         best_6 = round_scores[:6]
@@ -134,13 +140,15 @@ def compute_team_score(team_golfers, score_lookup, config):
             n_counting = len(weekend_ids)
             vs_par_by_round[rnd] = round_totals[rnd] - (n_counting * PAR)
 
-    # In-progress vs par for current round (counting golfers only)
+    # In-progress vs par for current round (R3/R4 only — R1/R2 already in vs_par_by_round)
     inprogress_vs_par = 0
     for detail in golfer_details:
         current_round = detail.get("round")
         if current_round is None:
             continue
         rnd_key = f"R{current_round}"
+        if rnd_key in ("R1", "R2"):
+            continue  # already included via round_totals
         if detail.get(rnd_key) is None and detail.get("thru", 0) > 0:
             if detail["counting"].get(rnd_key) or detail["dg_id"] in weekend_ids:
                 inprogress_vs_par += (detail.get("today") or 0)
