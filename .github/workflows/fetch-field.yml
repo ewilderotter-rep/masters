@@ -3,6 +3,9 @@ name: Fetch Tournament Field
 on:
   workflow_dispatch: # Manual trigger only
 
+permissions:
+  contents: write
+
 jobs:
   fetch-field:
     runs-on: ubuntu-latest
