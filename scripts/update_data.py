@@ -124,7 +124,11 @@ def main():
 
     # Step 3: Fetch weekend teams (if applicable)
     print("Fetching weekend teams...")
-    weekend_data = fetch_weekend_teams_from_apps_script()
+    try:
+        weekend_data = fetch_weekend_teams_from_apps_script()
+    except Exception as e:
+        print(f"  WARNING: weekend teams fetch failed ({e}), using empty")
+        weekend_data = {}
 
     # Step 4: Merge teams + weekend selections
     teams = merge_teams_with_weekend(teams_data, weekend_data)
