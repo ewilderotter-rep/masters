@@ -1,7 +1,7 @@
 {
   "event_name": "Masters Tournament",
   "current_round": 1,
-  "last_updated": "2026-04-09T14:52:12.806319+00:00",
+  "last_updated": "2026-04-09T15:02:12.288471+00:00",
   "players": [
     {
       "dg_id": 18417,
@@ -16,7 +16,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.92384
+      "make_cut": 0.92576
     },
     {
       "dg_id": 19195,
@@ -31,7 +31,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.89736
+      "make_cut": 0.8972
     },
     {
       "dg_id": 19895,
@@ -42,11 +42,11 @@
       "R3": null,
       "R4": null,
       "current_score": -1,
-      "current_pos": "T7",
+      "current_pos": "T6",
       "today": -1,
       "thru": 2,
       "round": 1,
-      "make_cut": 0.90052
+      "make_cut": 0.90188
     },
     {
       "dg_id": 12294,
@@ -61,7 +61,7 @@
       "today": -2,
       "thru": 3,
       "round": 1,
-      "make_cut": 0.93488
+      "make_cut": 0.93508
     },
     {
       "dg_id": 10091,
@@ -72,11 +72,11 @@
       "R3": null,
       "R4": null,
       "current_score": 0,
-      "current_pos": "T13",
+      "current_pos": "T14",
       "today": 0,
       "thru": 1,
       "round": 1,
-      "make_cut": 0.87196
+      "make_cut": 0.87176
     },
     {
       "dg_id": 23950,
@@ -91,52 +91,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.83536
-    },
-    {
-      "dg_id": 13562,
-      "name": "Hideki Matsuyama",
-      "country": "JPN",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 1,
-      "round": 1,
-      "make_cut": 0.84576
-    },
-    {
-      "dg_id": 17646,
-      "name": "Matt Fitzpatrick",
-      "country": "ENG",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 2,
-      "round": 1,
-      "make_cut": 0.82904
-    },
-    {
-      "dg_id": 23323,
-      "name": "Robert MacIntyre",
-      "country": "SCO",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.83668
+      "make_cut": 0.83924
     },
     {
       "dg_id": 16841,
@@ -151,7 +106,22 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.8176
+      "make_cut": 0.82336
+    },
+    {
+      "dg_id": 23323,
+      "name": "Robert MacIntyre",
+      "country": "SCO",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.84148
     },
     {
       "dg_id": 14838,
@@ -164,24 +134,39 @@
       "current_score": -3,
       "current_pos": "1",
       "today": -3,
-      "thru": 2,
+      "thru": 4,
       "round": 1,
-      "make_cut": 0.9122
+      "make_cut": 0.92296
     },
     {
-      "dg_id": 19483,
-      "name": "Sam Burns",
+      "dg_id": 13562,
+      "name": "Hideki Matsuyama",
+      "country": "JPN",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 2,
+      "round": 1,
+      "make_cut": 0.82192
+    },
+    {
+      "dg_id": 14578,
+      "name": "Russell Henley",
       "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": -2,
-      "current_pos": "T2",
-      "today": -2,
-      "thru": 5,
+      "current_score": -1,
+      "current_pos": "T6",
+      "today": -1,
+      "thru": 2,
       "round": 1,
-      "make_cut": 0.88848
+      "make_cut": 0.86124
     },
     {
       "dg_id": 19841,
@@ -196,7 +181,7 @@
       "today": 1,
       "thru": 2,
       "round": 1,
-      "make_cut": 0.74124
+      "make_cut": 0.7388
     },
     {
       "dg_id": 26651,
@@ -211,22 +196,7 @@
       "today": 1,
       "thru": 1,
       "round": 1,
-      "make_cut": 0.76116
-    },
-    {
-      "dg_id": 22085,
-      "name": "Collin Morikawa",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 1,
-      "round": 1,
-      "make_cut": 0.80488
+      "make_cut": 0.756
     },
     {
       "dg_id": 14609,
@@ -241,26 +211,11 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.81604
+      "make_cut": 0.82088
     },
     {
-      "dg_id": 14578,
-      "name": "Russell Henley",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 1,
-      "round": 1,
-      "make_cut": 0.81688
-    },
-    {
-      "dg_id": 21891,
-      "name": "Kurt Kitayama",
+      "dg_id": 26096,
+      "name": "Akshay Bhatia",
       "country": "USA",
       "R1": null,
       "R2": null,
@@ -269,9 +224,9 @@
       "current_score": -2,
       "current_pos": "T2",
       "today": -2,
-      "thru": 7,
+      "thru": 4,
       "round": 1,
-      "make_cut": 0.89216
+      "make_cut": 0.86844
     },
     {
       "dg_id": 14636,
@@ -286,12 +241,12 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.7984
+      "make_cut": 0.80116
     },
     {
-      "dg_id": 13900,
-      "name": "Shane Lowry",
-      "country": "IRL",
+      "dg_id": 21891,
+      "name": "Kurt Kitayama",
+      "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
@@ -299,9 +254,9 @@
       "current_score": -2,
       "current_pos": "T2",
       "today": -2,
-      "thru": 3,
+      "thru": 7,
       "round": 1,
-      "make_cut": 0.86268
+      "make_cut": 0.8978
     },
     {
       "dg_id": 6093,
@@ -316,82 +271,52 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.77432
+      "make_cut": 0.77844
     },
     {
-      "dg_id": 26096,
-      "name": "Akshay Bhatia",
+      "dg_id": 17646,
+      "name": "Matt Fitzpatrick",
+      "country": "ENG",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 1,
+      "current_pos": "T23",
+      "today": 1,
+      "thru": 3,
+      "round": 1,
+      "make_cut": 0.75104
+    },
+    {
+      "dg_id": 22085,
+      "name": "Collin Morikawa",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 2,
+      "round": 1,
+      "make_cut": 0.77688
+    },
+    {
+      "dg_id": 19483,
+      "name": "Sam Burns",
       "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
       "current_score": -1,
-      "current_pos": "T7",
+      "current_pos": "T6",
       "today": -1,
-      "thru": 3,
+      "thru": 6,
       "round": 1,
-      "make_cut": 0.79852
-    },
-    {
-      "dg_id": 18634,
-      "name": "Maverick McNealy",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.76456
-    },
-    {
-      "dg_id": 23602,
-      "name": "Nicolai Hojgaard",
-      "country": "DEN",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.74524
-    },
-    {
-      "dg_id": 19396,
-      "name": "Jake Knapp",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 5,
-      "round": 1,
-      "make_cut": 0.77104
-    },
-    {
-      "dg_id": 15466,
-      "name": "Patrick Cantlay",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.75504
+      "make_cut": 0.84172
     },
     {
       "dg_id": 27774,
@@ -406,7 +331,52 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.7364
+      "make_cut": 0.74004
+    },
+    {
+      "dg_id": 18634,
+      "name": "Maverick McNealy",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.76792
+    },
+    {
+      "dg_id": 23602,
+      "name": "Nicolai Hojgaard",
+      "country": "DEN",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.75284
+    },
+    {
+      "dg_id": 19396,
+      "name": "Jake Knapp",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 6,
+      "round": 1,
+      "make_cut": 0.78044
     },
     {
       "dg_id": 14139,
@@ -421,67 +391,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.73756
-    },
-    {
-      "dg_id": 6430,
-      "name": "Adam Scott",
-      "country": "AUS",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.74328
-    },
-    {
-      "dg_id": 29433,
-      "name": "Jacob Bridgeman",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.74812
-    },
-    {
-      "dg_id": 18841,
-      "name": "Viktor Hovland",
-      "country": "NOR",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.7358
-    },
-    {
-      "dg_id": 17536,
-      "name": "J.J. Spaun",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.74856
+      "make_cut": 0.73944
     },
     {
       "dg_id": 16243,
@@ -496,7 +406,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.7038
+      "make_cut": 0.70544
     },
     {
       "dg_id": 14577,
@@ -511,7 +421,97 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.757
+      "make_cut": 0.75676
+    },
+    {
+      "dg_id": 6430,
+      "name": "Adam Scott",
+      "country": "AUS",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.74352
+    },
+    {
+      "dg_id": 17536,
+      "name": "J.J. Spaun",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.74884
+    },
+    {
+      "dg_id": 18841,
+      "name": "Viktor Hovland",
+      "country": "NOR",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 1,
+      "round": 1,
+      "make_cut": 0.74568
+    },
+    {
+      "dg_id": 29433,
+      "name": "Jacob Bridgeman",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.74592
+    },
+    {
+      "dg_id": 15466,
+      "name": "Patrick Cantlay",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 1,
+      "current_pos": "T23",
+      "today": 1,
+      "thru": 1,
+      "round": 1,
+      "make_cut": 0.68568
+    },
+    {
+      "dg_id": 29767,
+      "name": "Ryan Gerard",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": -1,
+      "current_pos": "T6",
+      "today": -1,
+      "thru": 5,
+      "round": 1,
+      "make_cut": 0.80184
     },
     {
       "dg_id": 17511,
@@ -526,37 +526,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.71476
-    },
-    {
-      "dg_id": 29767,
-      "name": "Ryan Gerard",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": -1,
-      "current_pos": "T7",
-      "today": -1,
-      "thru": 4,
-      "round": 1,
-      "make_cut": 0.75304
-    },
-    {
-      "dg_id": 24968,
-      "name": "Ben Griffin",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.71304
+      "make_cut": 0.71696
     },
     {
       "dg_id": 22465,
@@ -571,12 +541,12 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.67096
+      "make_cut": 0.67424
     },
     {
-      "dg_id": 27194,
-      "name": "Harry Hall",
-      "country": "ENG",
+      "dg_id": 24968,
+      "name": "Ben Griffin",
+      "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
@@ -586,7 +556,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.707
+      "make_cut": 0.71644
     },
     {
       "dg_id": 25569,
@@ -601,7 +571,37 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.68992
+      "make_cut": 0.68796
+    },
+    {
+      "dg_id": 13900,
+      "name": "Shane Lowry",
+      "country": "IRL",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 4,
+      "round": 1,
+      "make_cut": 0.72764
+    },
+    {
+      "dg_id": 27194,
+      "name": "Harry Hall",
+      "country": "ENG",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.7116
     },
     {
       "dg_id": 17576,
@@ -616,37 +616,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.69012
-    },
-    {
-      "dg_id": 14796,
-      "name": "Tyrrell Hatton",
-      "country": "ENG",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.66028
-    },
-    {
-      "dg_id": 12577,
-      "name": "Gary Woodland",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.62784
+      "make_cut": 0.68848
     },
     {
       "dg_id": 13126,
@@ -657,41 +627,11 @@
       "R3": null,
       "R4": null,
       "current_score": -1,
-      "current_pos": "T7",
+      "current_pos": "T6",
       "today": -1,
-      "thru": 4,
+      "thru": 5,
       "round": 1,
-      "make_cut": 0.74268
-    },
-    {
-      "dg_id": 17606,
-      "name": "Daniel Berger",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.64156
-    },
-    {
-      "dg_id": 17488,
-      "name": "Sungjae Im",
-      "country": "KOR",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.62772
+      "make_cut": 0.7908
     },
     {
       "dg_id": 10419,
@@ -706,7 +646,37 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.6654
+      "make_cut": 0.66408
+    },
+    {
+      "dg_id": 14796,
+      "name": "Tyrrell Hatton",
+      "country": "ENG",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.65908
+    },
+    {
+      "dg_id": 28635,
+      "name": "Matt McCarty",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": -1,
+      "current_pos": "T6",
+      "today": -1,
+      "thru": 8,
+      "round": 1,
+      "make_cut": 0.7898
     },
     {
       "dg_id": 17538,
@@ -717,11 +687,26 @@
       "R3": null,
       "R4": null,
       "current_score": -1,
-      "current_pos": "T7",
+      "current_pos": "T6",
       "today": -1,
-      "thru": 10,
+      "thru": 11,
       "round": 1,
-      "make_cut": 0.77612
+      "make_cut": 0.80364
+    },
+    {
+      "dg_id": 17606,
+      "name": "Daniel Berger",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.64032
     },
     {
       "dg_id": 9771,
@@ -736,11 +721,11 @@
       "today": 1,
       "thru": 4,
       "round": 1,
-      "make_cut": 0.60092
+      "make_cut": 0.60432
     },
     {
-      "dg_id": 23604,
-      "name": "Wyndham Clark",
+      "dg_id": 12577,
+      "name": "Gary Woodland",
       "country": "USA",
       "R1": null,
       "R2": null,
@@ -751,22 +736,22 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.59512
+      "make_cut": 0.6326
     },
     {
-      "dg_id": 23465,
-      "name": "Max Greyserman",
-      "country": "USA",
+      "dg_id": 17488,
+      "name": "Sungjae Im",
+      "country": "KOR",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
       "current_score": 0,
-      "current_pos": "T13",
+      "current_pos": "--",
       "today": 0,
-      "thru": 8,
+      "thru": 0,
       "round": 1,
-      "make_cut": 0.67804
+      "make_cut": 0.62424
     },
     {
       "dg_id": 12422,
@@ -777,26 +762,11 @@
       "R3": null,
       "R4": null,
       "current_score": -1,
-      "current_pos": "T7",
+      "current_pos": "T6",
       "today": -1,
       "thru": 4,
       "round": 1,
-      "make_cut": 0.63996
-    },
-    {
-      "dg_id": 23475,
-      "name": "Andrew Novak",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.59216
+      "make_cut": 0.63828
     },
     {
       "dg_id": 17543,
@@ -811,22 +781,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.61544
-    },
-    {
-      "dg_id": 28635,
-      "name": "Matt McCarty",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 7,
-      "round": 1,
-      "make_cut": 0.71436
+      "make_cut": 0.61572
     },
     {
       "dg_id": 15856,
@@ -839,13 +794,13 @@
       "current_score": 1,
       "current_pos": "T23",
       "today": 1,
-      "thru": 5,
+      "thru": 6,
       "round": 1,
-      "make_cut": 0.5794
+      "make_cut": 0.5882
     },
     {
-      "dg_id": 29197,
-      "name": "Michael Brennan",
+      "dg_id": 23604,
+      "name": "Wyndham Clark",
       "country": "USA",
       "R1": null,
       "R2": null,
@@ -856,7 +811,37 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.56164
+      "make_cut": 0.5978
+    },
+    {
+      "dg_id": 23465,
+      "name": "Max Greyserman",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 8,
+      "round": 1,
+      "make_cut": 0.67984
+    },
+    {
+      "dg_id": 23475,
+      "name": "Andrew Novak",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.5942
     },
     {
       "dg_id": 8825,
@@ -871,7 +856,22 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.60676
+      "make_cut": 0.60128
+    },
+    {
+      "dg_id": 29197,
+      "name": "Michael Brennan",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.56368
     },
     {
       "dg_id": 21407,
@@ -886,7 +886,7 @@
       "today": 1,
       "thru": 7,
       "round": 1,
-      "make_cut": 0.59168
+      "make_cut": 0.59592
     },
     {
       "dg_id": 22322,
@@ -901,37 +901,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.56856
-    },
-    {
-      "dg_id": 5689,
-      "name": "Sergio Garcia",
-      "country": "ESP",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.53156
-    },
-    {
-      "dg_id": 23838,
-      "name": "Rasmus Hojgaard",
-      "country": "DEN",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 2,
-      "current_pos": "T29",
-      "today": 2,
-      "thru": 7,
-      "round": 1,
-      "make_cut": 0.50128
+      "make_cut": 0.56876
     },
     {
       "dg_id": 18554,
@@ -946,22 +916,37 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.57008
+      "make_cut": 0.56996
     },
     {
-      "dg_id": 15310,
-      "name": "Haotong Li",
-      "country": "CHN",
+      "dg_id": 23838,
+      "name": "Rasmus Hojgaard",
+      "country": "DEN",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
       "current_score": 2,
-      "current_pos": "T29",
+      "current_pos": "T32",
       "today": 2,
-      "thru": 12,
+      "thru": 8,
       "round": 1,
-      "make_cut": 0.5026
+      "make_cut": 0.47944
+    },
+    {
+      "dg_id": 5689,
+      "name": "Sergio Garcia",
+      "country": "ESP",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
+      "round": 1,
+      "make_cut": 0.535
     },
     {
       "dg_id": 13872,
@@ -971,12 +956,12 @@
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": 2,
-      "current_pos": "T29",
-      "today": 2,
-      "thru": 4,
+      "current_score": 3,
+      "current_pos": "T37",
+      "today": 3,
+      "thru": 5,
       "round": 1,
-      "make_cut": 0.44384
+      "make_cut": 0.38156
     },
     {
       "dg_id": 7398,
@@ -987,26 +972,11 @@
       "R3": null,
       "R4": null,
       "current_score": 0,
-      "current_pos": "T13",
+      "current_pos": "T14",
       "today": 0,
       "thru": 8,
       "round": 1,
-      "make_cut": 0.59768
-    },
-    {
-      "dg_id": 32457,
-      "name": "Johnny Keefer",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 2,
-      "current_pos": "T29",
-      "today": 2,
-      "thru": 12,
-      "round": 1,
-      "make_cut": 0.50976
+      "make_cut": 0.60152
     },
     {
       "dg_id": 23816,
@@ -1019,9 +989,24 @@
       "current_score": 1,
       "current_pos": "T23",
       "today": 1,
-      "thru": 8,
+      "thru": 9,
       "round": 1,
-      "make_cut": 0.51908
+      "make_cut": 0.53172
+    },
+    {
+      "dg_id": 15310,
+      "name": "Haotong Li",
+      "country": "CHN",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 1,
+      "current_pos": "T23",
+      "today": 1,
+      "thru": 13,
+      "round": 1,
+      "make_cut": 0.59812
     },
     {
       "dg_id": 26947,
@@ -1032,11 +1017,11 @@
       "R3": null,
       "R4": null,
       "current_score": 2,
-      "current_pos": "T29",
+      "current_pos": "T32",
       "today": 2,
       "thru": 7,
       "round": 1,
-      "make_cut": 0.45604
+      "make_cut": 0.46108
     },
     {
       "dg_id": 6986,
@@ -1051,7 +1036,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.46984
+      "make_cut": 0.47092
     },
     {
       "dg_id": 19872,
@@ -1066,7 +1051,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.38048
+      "make_cut": 0.38292
     },
     {
       "dg_id": 23841,
@@ -1077,11 +1062,41 @@
       "R3": null,
       "R4": null,
       "current_score": 2,
-      "current_pos": "T29",
+      "current_pos": "T32",
       "today": 2,
-      "thru": 9,
+      "thru": 10,
       "round": 1,
-      "make_cut": 0.38176
+      "make_cut": 0.42292
+    },
+    {
+      "dg_id": 22833,
+      "name": "Nico Echavarria",
+      "country": "COL",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 2,
+      "current_pos": "T32",
+      "today": 2,
+      "thru": 7,
+      "round": 1,
+      "make_cut": 0.41748
+    },
+    {
+      "dg_id": 32457,
+      "name": "Johnny Keefer",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 3,
+      "current_pos": "T37",
+      "today": 3,
+      "thru": 13,
+      "round": 1,
+      "make_cut": 0.3556
     },
     {
       "dg_id": 12920,
@@ -1096,97 +1111,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.37764
-    },
-    {
-      "dg_id": 33759,
-      "name": "Mason Howell",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "T13",
-      "today": 0,
-      "thru": 1,
-      "round": 1,
-      "make_cut": 0.25208
-    },
-    {
-      "dg_id": 5717,
-      "name": "Angel Cabrera",
-      "country": "ARG",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 3,
-      "current_pos": "T38",
-      "today": 3,
-      "thru": 8,
-      "round": 1,
-      "make_cut": 0.09132
-    },
-    {
-      "dg_id": 44,
-      "name": "Fred Couples",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 0,
-      "current_pos": "--",
-      "today": 0,
-      "thru": 0,
-      "round": 1,
-      "make_cut": 0.19972
-    },
-    {
-      "dg_id": 22833,
-      "name": "Nico Echavarria",
-      "country": "COL",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 4,
-      "current_pos": "41",
-      "today": 4,
-      "thru": 6,
-      "round": 1,
-      "make_cut": 0.18608
-    },
-    {
-      "dg_id": 7334,
-      "name": "Bubba Watson",
-      "country": "USA",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 3,
-      "current_pos": "T38",
-      "today": 3,
-      "thru": 6,
-      "round": 1,
-      "make_cut": 0.22376
-    },
-    {
-      "dg_id": 18994,
-      "name": "Naoyuki Kataoka",
-      "country": "JPN",
-      "R1": null,
-      "R2": null,
-      "R3": null,
-      "R4": null,
-      "current_score": 3,
-      "current_pos": "T38",
-      "today": 3,
-      "thru": 10,
-      "round": 1,
-      "make_cut": 0.11844
+      "make_cut": 0.37632
     },
     {
       "dg_id": 11889,
@@ -1197,26 +1122,41 @@
       "R3": null,
       "R4": null,
       "current_score": 5,
-      "current_pos": "42",
+      "current_pos": "44",
       "today": 5,
       "thru": 8,
       "round": 1,
-      "make_cut": 0.15068
+      "make_cut": 0.15424
     },
     {
-      "dg_id": 3485,
-      "name": "Jose Maria Olazabal",
-      "country": "ESP",
+      "dg_id": 33759,
+      "name": "Mason Howell",
+      "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": -2,
-      "current_pos": "T2",
-      "today": -2,
-      "thru": 9,
+      "current_score": 0,
+      "current_pos": "T14",
+      "today": 0,
+      "thru": 1,
       "round": 1,
-      "make_cut": 0.24448
+      "make_cut": 0.24984
+    },
+    {
+      "dg_id": 7334,
+      "name": "Bubba Watson",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 4,
+      "current_pos": "T40",
+      "today": 4,
+      "thru": 7,
+      "round": 1,
+      "make_cut": 0.16772
     },
     {
       "dg_id": 18628,
@@ -1231,7 +1171,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.26116
+      "make_cut": 0.25984
     },
     {
       "dg_id": 30040693,
@@ -1241,12 +1181,57 @@
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": 2,
-      "current_pos": "T29",
-      "today": 2,
-      "thru": 8,
+      "current_score": 3,
+      "current_pos": "T37",
+      "today": 3,
+      "thru": 9,
       "round": 1,
-      "make_cut": 0.09084
+      "make_cut": 0.05616
+    },
+    {
+      "dg_id": 18994,
+      "name": "Naoyuki Kataoka",
+      "country": "JPN",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 4,
+      "current_pos": "T40",
+      "today": 4,
+      "thru": 11,
+      "round": 1,
+      "make_cut": 0.08044
+    },
+    {
+      "dg_id": 5717,
+      "name": "Angel Cabrera",
+      "country": "ARG",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 4,
+      "current_pos": "T40",
+      "today": 4,
+      "thru": 9,
+      "round": 1,
+      "make_cut": 0.05656
+    },
+    {
+      "dg_id": 14735,
+      "name": "Carlos Ortiz",
+      "country": "MEX",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 8,
+      "current_pos": "T45",
+      "today": 8,
+      "thru": 11,
+      "round": 1,
+      "make_cut": 0.02064
     },
     {
       "dg_id": 653,
@@ -1257,26 +1242,26 @@
       "R3": null,
       "R4": null,
       "current_score": 2,
-      "current_pos": "T29",
+      "current_pos": "T32",
       "today": 2,
-      "thru": 7,
+      "thru": 8,
       "round": 1,
-      "make_cut": 0.14652
+      "make_cut": 0.14192
     },
     {
-      "dg_id": 30044977,
-      "name": "Brandon Holtz",
+      "dg_id": 44,
+      "name": "Fred Couples",
       "country": "USA",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": 2,
-      "current_pos": "T29",
-      "today": 2,
-      "thru": 6,
+      "current_score": 0,
+      "current_pos": "--",
+      "today": 0,
+      "thru": 0,
       "round": 1,
-      "make_cut": 0.05232
+      "make_cut": 0.19848
     },
     {
       "dg_id": 34025,
@@ -1291,22 +1276,22 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.2246
+      "make_cut": 0.2256
     },
     {
-      "dg_id": 14735,
-      "name": "Carlos Ortiz",
-      "country": "MEX",
+      "dg_id": 3485,
+      "name": "Jose Maria Olazabal",
+      "country": "ESP",
       "R1": null,
       "R2": null,
       "R3": null,
       "R4": null,
-      "current_score": 8,
-      "current_pos": "T43",
-      "today": 8,
+      "current_score": -2,
+      "current_pos": "T2",
+      "today": -2,
       "thru": 10,
       "round": 1,
-      "make_cut": 0.01568
+      "make_cut": 0.25372
     },
     {
       "dg_id": 5513,
@@ -1321,7 +1306,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.12264
+      "make_cut": 0.12604
     },
     {
       "dg_id": 27019,
@@ -1336,7 +1321,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.18532
+      "make_cut": 0.18612
     },
     {
       "dg_id": 30035862,
@@ -1351,7 +1336,7 @@
       "today": 0,
       "thru": 0,
       "round": 1,
-      "make_cut": 0.07864
+      "make_cut": 0.07704
     },
     {
       "dg_id": 27900,
@@ -1362,11 +1347,26 @@
       "R3": null,
       "R4": null,
       "current_score": 8,
-      "current_pos": "T43",
+      "current_pos": "T45",
       "today": 8,
-      "thru": 9,
+      "thru": 10,
       "round": 1,
-      "make_cut": 0.01212
+      "make_cut": 0.01588
+    },
+    {
+      "dg_id": 30044977,
+      "name": "Brandon Holtz",
+      "country": "USA",
+      "R1": null,
+      "R2": null,
+      "R3": null,
+      "R4": null,
+      "current_score": 4,
+      "current_pos": "T40",
+      "today": 4,
+      "thru": 7,
+      "round": 1,
+      "make_cut": 0.019
     }
   ]
 }
