@@ -1,0 +1,45 @@
+{
+  "_comment": "Test data -- mock teams using Houston Open players for pipeline testing",
+  "teams": {
+    "Corey": [
+      {"dg_id": 12577, "name": "Gary Woodland"},
+      {"dg_id": 19428, "name": "Will Zalatoris"},
+      {"dg_id": 18854, "name": "Scottie Scheffler"},
+      {"dg_id": 15503, "name": "Rory McIlroy"},
+      {"dg_id": 17536, "name": "Collin Morikawa"},
+      {"dg_id": 14062, "name": "Justin Thomas"},
+      {"dg_id": 16081, "name": "Jon Rahm"},
+      {"dg_id": 15682, "name": "Xander Schauffele"}
+    ],
+    "Eli": [
+      {"dg_id": 15796, "name": "Patrick Cantlay"},
+      {"dg_id": 14636, "name": "Tony Finau"},
+      {"dg_id": 15468, "name": "Hideki Matsuyama"},
+      {"dg_id": 15156, "name": "Shane Lowry"},
+      {"dg_id": 18417, "name": "Viktor Hovland"},
+      {"dg_id": 23950, "name": "Ludvig Aberg"},
+      {"dg_id": 17217, "name": "Cameron Smith"},
+      {"dg_id": 15466, "name": "Jordan Spieth"}
+    ],
+    "Preston": [
+      {"dg_id": 15636, "name": "Brooks Koepka"},
+      {"dg_id": 18440, "name": "Joaquin Niemann"},
+      {"dg_id": 17562, "name": "Akshay Bhatia"},
+      {"dg_id": 15891, "name": "Daniel Berger"},
+      {"dg_id": 15530, "name": "Tommy Fleetwood"},
+      {"dg_id": 18522, "name": "Robert MacIntyre"},
+      {"dg_id": 22833, "name": "Min Woo Lee"},
+      {"dg_id": 15447, "name": "Adam Scott"}
+    ],
+    "Eric": [
+      {"dg_id": 23462, "name": "Bryson DeChambeau"},
+      {"dg_id": 15257, "name": "Russell Henley"},
+      {"dg_id": 15460, "name": "Cameron Young"},
+      {"dg_id": 15363, "name": "Patrick Reed"},
+      {"dg_id": 15490, "name": "Keegan Bradley"},
+      {"dg_id": 15488, "name": "Corey Conners"},
+      {"dg_id": 15631, "name": "Sepp Straka"},
+      {"dg_id": 14237, "name": "Sergio Garcia"}
+    ]
+  }
+}

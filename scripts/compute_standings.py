@@ -36,7 +36,7 @@ def compute_round_strokes(player_score, round_key):
     return player_score.get(round_key)
 
 
-def compute_team_score(team_golfers, score_lookup, config):
+def compute_team_score(team_golfers, score_lookup, config, current_round=1):
     """Compute a team's total score across all rounds played so far.
 
     Thu/Fri (R1, R2): best 6 of 8 count per round
@@ -81,6 +81,9 @@ def compute_team_score(team_golfers, score_lookup, config):
                 # In-progress: estimate as PAR + today
                 est = PAR + (detail.get("today") or 0)
                 round_scores.append((detail["dg_id"], est))
+            elif rnd_num <= current_round and detail.get("current_pos") != "CUT":
+                # Not yet started but round is active: estimate as PAR
+                round_scores.append((detail["dg_id"], PAR))
 
         round_scores.sort(key=lambda x: x[1])
         best_6 = round_scores[:6]
@@ -191,17 +194,18 @@ def compute_team_score(team_golfers, score_lookup, config):
     }
 
 
-def compute_standings(teams, score_lookup, config):
+def compute_standings(teams, score_lookup, config, current_round=1):
     """Compute standings for all teams.
 
     Args:
         teams: dict of {owner_name: [{"dg_id": int, "name": str, "is_weekend": bool}, ...]}
         score_lookup: dict of {dg_id: player_score_data}
         config: config.json contents
+        current_round: active round number (1-4)
     """
     results = []
     for owner, golfers in teams.items():
-        team_result = compute_team_score(golfers, score_lookup, config)
+        team_result = compute_team_score(golfers, score_lookup, config, current_round)
         results.append({
             "name": owner,
             "color": config["participants"].get(owner, {}).get("color", "#333"),

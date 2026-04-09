@@ -133,7 +133,8 @@ def main():
     # Step 5: Compute standings
     print("Computing standings...")
     score_lookup = build_score_lookup(live_scores)
-    standings = compute_standings(teams, score_lookup, config)
+    current_round = live_scores.get("current_round") or 1
+    standings = compute_standings(teams, score_lookup, config, current_round)
 
     # Step 6: Save standings + append history
     standings_json = build_standings_json(standings, live_scores, config)
