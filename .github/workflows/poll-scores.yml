@@ -3,8 +3,8 @@ name: Poll Masters Scores
 on:
   schedule:
     # Every 5 minutes during tournament hours (11:00-23:55 UTC = ~6am-7pm CT)
-    # April 10-13 (R1 Thursday through Sunday)
-    - cron: '*/5 11-23 10-13 4 *'
+    # April 9-12 (R1 Thursday through Sunday)
+    - cron: '*/5 11-23 9-12 4 *'
   workflow_dispatch: # Manual trigger for testing
 
 jobs:
