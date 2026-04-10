@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T20:35:13.191437+00:00",
+  "last_updated": "2026-04-10T21:07:05.520227+00:00",
   "event_name": "Masters Tournament",
   "current_round": 2,
   "par": 72,
@@ -7,19 +7,19 @@
     {
       "name": "Eric",
       "color": "#e65100",
-      "total_strokes": 847,
+      "total_strokes": 849,
       "round_totals": {
         "R1": 424,
-        "R2": 423,
+        "R2": 425,
         "R3": 0,
         "R4": 0
       },
-      "vs_par": -17,
+      "vs_par": -15,
       "vs_par_by_round": {
         "R1": -8,
-        "R2": -9
+        "R2": -7
       },
-      "holes_remaining": 29,
+      "holes_remaining": 21,
       "golfers": [
         {
           "dg_id": 10091,
@@ -28,12 +28,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "1",
-          "current_score": -7,
-          "today": -2,
-          "thru": 9,
+          "current_pos": "T1",
+          "current_score": -6,
+          "today": -1,
+          "thru": 11,
           "round": 2,
-          "make_cut": 0.99996,
+          "make_cut": 1.0,
           "counting": {
             "R1": true,
             "R2": true,
@@ -41,8 +41,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 70,
-          "holes_remaining": 9
+          "R2_est": 71,
+          "holes_remaining": 7
         },
         {
           "dg_id": 23950,
@@ -73,12 +73,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T16",
-          "current_score": -2,
-          "today": -2,
-          "thru": 10,
+          "current_pos": "T18",
+          "current_score": -1,
+          "today": -1,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.99772,
+          "make_cut": 0.99824,
           "counting": {
             "R1": true,
             "R2": true,
@@ -86,8 +86,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 70,
-          "holes_remaining": 8
+          "R2_est": 71,
+          "holes_remaining": 6
         },
         {
           "dg_id": 16841,
@@ -96,7 +96,7 @@
           "R2": 77,
           "R3": null,
           "R4": null,
-          "current_pos": "T80",
+          "current_pos": "T79",
           "current_score": 11,
           "today": 5,
           "thru": 18,
@@ -118,21 +118,21 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T38",
-          "current_score": 2,
-          "today": 1,
-          "thru": 12,
+          "current_pos": "T49",
+          "current_score": 4,
+          "today": 3,
+          "thru": 14,
           "round": 2,
-          "make_cut": 0.93024,
+          "make_cut": 0.57844,
           "counting": {
             "R1": true,
-            "R2": true,
+            "R2": false,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 73,
-          "holes_remaining": 6
+          "R2_est": 75,
+          "holes_remaining": 4
         },
         {
           "dg_id": 27774,
@@ -141,7 +141,7 @@
           "R2": 69,
           "R3": null,
           "R4": null,
-          "current_pos": "T10",
+          "current_pos": "T11",
           "current_score": -3,
           "today": -3,
           "thru": 18,
@@ -163,12 +163,12 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T5",
-          "current_score": -4,
-          "today": -1,
-          "thru": 12,
+          "current_pos": "T3",
+          "current_score": -5,
+          "today": -2,
+          "thru": 14,
           "round": 2,
-          "make_cut": 0.99996,
+          "make_cut": 1.0,
           "counting": {
             "R1": true,
             "R2": true,
@@ -176,8 +176,8 @@
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 71,
-          "holes_remaining": 6
+          "R2_est": 70,
+          "holes_remaining": 4
         },
         {
           "dg_id": 29433,
@@ -186,7 +186,7 @@
           "R2": 74,
           "R3": null,
           "R4": null,
-          "current_pos": "T31",
+          "current_pos": "T30",
           "current_score": 1,
           "today": 2,
           "thru": 18,
@@ -194,7 +194,7 @@
           "make_cut": 1.0,
           "counting": {
             "R1": true,
-            "R2": false,
+            "R2": true,
             "R3": false,
             "R4": false
           },
@@ -220,7 +220,7 @@
         "R1": 0,
         "R2": -13
       },
-      "holes_remaining": 31,
+      "holes_remaining": 23,
       "golfers": [
         {
           "dg_id": 17646,
@@ -232,9 +232,9 @@
           "current_pos": "T23",
           "current_score": 0,
           "today": -2,
-          "thru": 11,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.9912,
+          "make_cut": 0.9948,
           "counting": {
             "R1": true,
             "R2": true,
@@ -243,7 +243,7 @@
           },
           "is_weekend": false,
           "R2_est": 70,
-          "holes_remaining": 7
+          "holes_remaining": 6
         },
         {
           "dg_id": 12294,
@@ -252,10 +252,10 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T5",
+          "current_pos": "T6",
           "current_score": -4,
           "today": -3,
-          "thru": 12,
+          "thru": 13,
           "round": 2,
           "make_cut": 1.0,
           "counting": {
@@ -266,7 +266,7 @@
           },
           "is_weekend": false,
           "R2_est": 69,
-          "holes_remaining": 6
+          "holes_remaining": 5
         },
         {
           "dg_id": 22085,
@@ -278,9 +278,9 @@
           "current_pos": "T23",
           "current_score": 0,
           "today": -2,
-          "thru": 10,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.9802,
+          "make_cut": 0.99336,
           "counting": {
             "R1": false,
             "R2": true,
@@ -289,7 +289,7 @@
           },
           "is_weekend": false,
           "R2_est": 70,
-          "holes_remaining": 8
+          "holes_remaining": 6
         },
         {
           "dg_id": 14838,
@@ -298,10 +298,10 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "2",
+          "current_pos": "T1",
           "current_score": -6,
           "today": -3,
-          "thru": 12,
+          "thru": 14,
           "round": 2,
           "make_cut": 1.0,
           "counting": {
@@ -312,7 +312,7 @@
           },
           "is_weekend": false,
           "R2_est": 69,
-          "holes_remaining": 6
+          "holes_remaining": 4
         },
         {
           "dg_id": 14636,
@@ -321,7 +321,7 @@
           "R2": 73,
           "R3": null,
           "R4": null,
-          "current_pos": "T31",
+          "current_pos": "T30",
           "current_score": 1,
           "today": 1,
           "thru": 18,
@@ -346,9 +346,9 @@
           "current_pos": "T18",
           "current_score": -1,
           "today": -2,
-          "thru": 14,
+          "thru": 16,
           "round": 2,
-          "make_cut": 0.99884,
+          "make_cut": 0.99972,
           "counting": {
             "R1": true,
             "R2": true,
@@ -357,7 +357,7 @@
           },
           "is_weekend": false,
           "R2_est": 70,
-          "holes_remaining": 4
+          "holes_remaining": 2
         },
         {
           "dg_id": 14577,
@@ -405,24 +405,24 @@
         }
       ],
       "rank": 2,
-      "strokes_behind": 4
+      "strokes_behind": 2
     },
     {
       "name": "Preston",
       "color": "#b71c1c",
-      "total_strokes": 861,
+      "total_strokes": 860,
       "round_totals": {
         "R1": 439,
-        "R2": 422,
+        "R2": 421,
         "R3": 0,
         "R4": 0
       },
-      "vs_par": -3,
+      "vs_par": -4,
       "vs_par_by_round": {
         "R1": 7,
-        "R2": -10
+        "R2": -11
       },
-      "holes_remaining": 25,
+      "holes_remaining": 20,
       "golfers": [
         {
           "dg_id": 19195,
@@ -436,7 +436,7 @@
           "today": -2,
           "thru": 18,
           "round": 2,
-          "make_cut": 0.99108,
+          "make_cut": 0.99396,
           "counting": {
             "R1": false,
             "R2": true,
@@ -453,21 +453,21 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T10",
-          "current_score": -3,
-          "today": -1,
-          "thru": 11,
+          "current_pos": "T15",
+          "current_score": -2,
+          "today": 0,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.99972,
+          "make_cut": 0.99944,
           "counting": {
             "R1": true,
-            "R2": true,
+            "R2": false,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 71,
-          "holes_remaining": 7
+          "R2_est": 72,
+          "holes_remaining": 6
         },
         {
           "dg_id": 23323,
@@ -476,7 +476,7 @@
           "R2": 71,
           "R3": null,
           "R4": null,
-          "current_pos": "T66",
+          "current_pos": "T64",
           "current_score": 7,
           "today": -1,
           "thru": 18,
@@ -523,9 +523,9 @@
           "current_pos": "T23",
           "current_score": 0,
           "today": -1,
-          "thru": 10,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.98492,
+          "make_cut": 0.99456,
           "counting": {
             "R1": true,
             "R2": true,
@@ -534,7 +534,7 @@
           },
           "is_weekend": false,
           "R2_est": 71,
-          "holes_remaining": 8
+          "holes_remaining": 6
         },
         {
           "dg_id": 18634,
@@ -543,7 +543,7 @@
           "R2": 70,
           "R3": null,
           "R4": null,
-          "current_pos": "T43",
+          "current_pos": "T42",
           "current_score": 3,
           "today": -2,
           "thru": 18,
@@ -565,21 +565,21 @@
           "R2": null,
           "R3": null,
           "R4": null,
-          "current_pos": "T49",
-          "current_score": 4,
-          "today": -1,
-          "thru": 8,
+          "current_pos": "T42",
+          "current_score": 3,
+          "today": -2,
+          "thru": 10,
           "round": 2,
-          "make_cut": 0.53016,
+          "make_cut": 0.73488,
           "counting": {
             "R1": true,
-            "R2": false,
+            "R2": true,
             "R3": false,
             "R4": false
           },
           "is_weekend": false,
-          "R2_est": 71,
-          "holes_remaining": 10
+          "R2_est": 70,
+          "holes_remaining": 8
         },
         {
           "dg_id": 6430,
@@ -605,7 +605,7 @@
         }
       ],
       "rank": 3,
-      "strokes_behind": 14
+      "strokes_behind": 11
     },
     {
       "name": "Eli",
@@ -622,7 +622,7 @@
         "R1": 3,
         "R2": -2
       },
-      "holes_remaining": 9,
+      "holes_remaining": 6,
       "golfers": [
         {
           "dg_id": 18417,
@@ -656,9 +656,9 @@
           "current_pos": "T18",
           "current_score": -1,
           "today": -2,
-          "thru": 9,
+          "thru": 12,
           "round": 2,
-          "make_cut": 0.99056,
+          "make_cut": 0.99808,
           "counting": {
             "R1": true,
             "R2": true,
@@ -667,7 +667,7 @@
           },
           "is_weekend": false,
           "R2_est": 70,
-          "holes_remaining": 9
+          "holes_remaining": 6
         },
         {
           "dg_id": 12920,
@@ -676,12 +676,12 @@
           "R2": 73,
           "R3": null,
           "R4": null,
-          "current_pos": "T55",
+          "current_pos": "T57",
           "current_score": 5,
           "today": 1,
           "thru": 18,
           "round": 2,
-          "make_cut": 0.01052,
+          "make_cut": 4e-05,
           "counting": {
             "R1": false,
             "R2": true,
@@ -698,7 +698,7 @@
           "R2": 69,
           "R3": null,
           "R4": null,
-          "current_pos": "T10",
+          "current_pos": "T11",
           "current_score": -3,
           "today": -3,
           "thru": 18,
@@ -725,7 +725,7 @@
           "today": 1,
           "thru": 18,
           "round": 2,
-          "make_cut": 0.99108,
+          "make_cut": 0.99396,
           "counting": {
             "R1": true,
             "R2": true,
@@ -742,7 +742,7 @@
           "R2": 72,
           "R3": null,
           "R4": null,
-          "current_pos": "T31",
+          "current_pos": "T30",
           "current_score": 1,
           "today": 0,
           "thru": 18,
@@ -791,7 +791,7 @@
           "today": 1,
           "thru": 18,
           "round": 2,
-          "make_cut": 0.99108,
+          "make_cut": 0.99396,
           "counting": {
             "R1": false,
             "R2": true,
@@ -803,7 +803,7 @@
         }
       ],
       "rank": 4,
-      "strokes_behind": 18
+      "strokes_behind": 16
     }
   ]
 }
