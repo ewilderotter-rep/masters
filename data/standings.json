@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T21:47:11.680693+00:00",
+  "last_updated": "2026-04-11T22:15:57.085413+00:00",
   "event_name": "Masters Tournament",
   "current_round": 3,
   "par": 72,
@@ -7,20 +7,20 @@
     {
       "name": "Eric",
       "color": "#e65100",
-      "total_strokes": 1127,
+      "total_strokes": 1125,
       "round_totals": {
         "R1": 424,
         "R2": 419,
-        "R3": 69,
+        "R3": 209,
         "R4": 0
       },
-      "vs_par": -25,
+      "vs_par": -27,
       "vs_par_by_round": {
         "R1": -8,
         "R2": -13,
-        "R3": -3
+        "R3": -7
       },
-      "holes_remaining": 81,
+      "holes_remaining": 76,
       "golfers": [
         {
           "dg_id": 10091,
@@ -29,10 +29,10 @@
           "R2": 65,
           "R3": null,
           "R4": null,
-          "current_pos": "2",
-          "current_score": -10,
-          "today": 2,
-          "thru": 12,
+          "current_pos": "T1",
+          "current_score": -11,
+          "today": 1,
+          "thru": 14,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -42,8 +42,8 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 74,
-          "holes_remaining": 24
+          "R3_est": 73,
+          "holes_remaining": 22
         },
         {
           "dg_id": 23950,
@@ -74,7 +74,7 @@
           "R2": 70,
           "R3": 72,
           "R4": null,
-          "current_pos": "T27",
+          "current_pos": "T29",
           "current_score": -2,
           "today": 0,
           "thru": 18,
@@ -138,12 +138,12 @@
           "name": "Chris Gotterup",
           "R1": 72,
           "R2": 69,
-          "R3": null,
+          "R3": 72,
           "R4": null,
-          "current_pos": "T27",
-          "current_score": -2,
-          "today": 1,
-          "thru": 17,
+          "current_pos": "T21",
+          "current_score": -3,
+          "today": 0,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -153,20 +153,19 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 73,
-          "holes_remaining": 19
+          "holes_remaining": 18
         },
         {
           "dg_id": 9771,
           "name": "Jason Day",
           "R1": 69,
           "R2": 71,
-          "R3": null,
+          "R3": 68,
           "R4": null,
-          "current_pos": "T4",
+          "current_pos": "T5",
           "current_score": -8,
           "today": -4,
-          "thru": 16,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -176,8 +175,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 68,
-          "holes_remaining": 20
+          "holes_remaining": 18
         },
         {
           "dg_id": 29433,
@@ -186,7 +184,7 @@
           "R2": 74,
           "R3": 69,
           "R4": null,
-          "current_pos": "T27",
+          "current_pos": "T29",
           "current_score": -2,
           "today": -3,
           "thru": 18,
@@ -212,16 +210,16 @@
       "round_totals": {
         "R1": 434,
         "R2": 423,
-        "R3": 206,
+        "R3": 271,
         "R4": 0
       },
       "vs_par": -24,
       "vs_par_by_round": {
         "R1": 2,
         "R2": -9,
-        "R3": -10
+        "R3": -17
       },
-      "holes_remaining": 74,
+      "holes_remaining": 72,
       "golfers": [
         {
           "dg_id": 18417,
@@ -230,7 +228,7 @@
           "R2": 74,
           "R3": 65,
           "R4": null,
-          "current_pos": "T7",
+          "current_pos": "T8",
           "current_score": -7,
           "today": -7,
           "thru": 18,
@@ -250,12 +248,12 @@
           "name": "Cameron Young",
           "R1": 73,
           "R2": 67,
-          "R3": null,
+          "R3": 65,
           "R4": null,
-          "current_pos": "1",
+          "current_pos": "T1",
           "current_score": -11,
           "today": -7,
-          "thru": 16,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -265,8 +263,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 65,
-          "holes_remaining": 20
+          "holes_remaining": 18
         },
         {
           "dg_id": 17646,
@@ -341,7 +338,7 @@
           "R2": 72,
           "R3": 69,
           "R4": null,
-          "current_pos": "T27",
+          "current_pos": "T29",
           "current_score": -2,
           "today": -3,
           "thru": 18,
@@ -402,25 +399,25 @@
         }
       ],
       "rank": 2,
-      "strokes_behind": 1
+      "strokes_behind": 3
     },
     {
       "name": "Corey",
       "color": "#1b5e20",
-      "total_strokes": 1135,
+      "total_strokes": 1134,
       "round_totals": {
         "R1": 432,
         "R2": 419,
         "R3": 139,
         "R4": 0
       },
-      "vs_par": -17,
+      "vs_par": -18,
       "vs_par_by_round": {
         "R1": 0,
         "R2": -13,
         "R3": -5
       },
-      "holes_remaining": 82,
+      "holes_remaining": 79,
       "golfers": [
         {
           "dg_id": 19841,
@@ -454,7 +451,7 @@
           "current_pos": "T16",
           "current_score": -4,
           "today": 1,
-          "thru": 14,
+          "thru": 15,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -465,7 +462,7 @@
           },
           "is_weekend": true,
           "R3_est": 73,
-          "holes_remaining": 22
+          "holes_remaining": 21
         },
         {
           "dg_id": 22085,
@@ -496,10 +493,10 @@
           "R2": 69,
           "R3": null,
           "R4": null,
-          "current_pos": "T9",
-          "current_score": -6,
-          "today": 0,
-          "thru": 12,
+          "current_pos": "T8",
+          "current_score": -7,
+          "today": -1,
+          "thru": 14,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -509,8 +506,8 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 72,
-          "holes_remaining": 24
+          "R3_est": 71,
+          "holes_remaining": 22
         },
         {
           "dg_id": 14636,
@@ -602,25 +599,25 @@
         }
       ],
       "rank": 3,
-      "strokes_behind": 8
+      "strokes_behind": 9
     },
     {
       "name": "Preston",
       "color": "#b71c1c",
-      "total_strokes": 1136,
+      "total_strokes": 1135,
       "round_totals": {
         "R1": 439,
         "R2": 418,
         "R3": 209,
         "R4": 0
       },
-      "vs_par": -16,
+      "vs_par": -17,
       "vs_par_by_round": {
         "R1": 7,
         "R2": -14,
         "R3": -7
       },
-      "holes_remaining": 78,
+      "holes_remaining": 76,
       "golfers": [
         {
           "dg_id": 19195,
@@ -695,10 +692,10 @@
           "R2": 69,
           "R3": null,
           "R4": null,
-          "current_pos": "T7",
-          "current_score": -7,
-          "today": -2,
-          "thru": 12,
+          "current_pos": "T5",
+          "current_score": -8,
+          "today": -3,
+          "thru": 14,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -708,8 +705,8 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 70,
-          "holes_remaining": 24
+          "R3_est": 69,
+          "holes_remaining": 22
         },
         {
           "dg_id": 14578,
@@ -718,7 +715,7 @@
           "R2": 71,
           "R3": 66,
           "R4": null,
-          "current_pos": "T9",
+          "current_pos": "T10",
           "current_score": -6,
           "today": -6,
           "thru": 18,
@@ -762,7 +759,7 @@
           "R2": 67,
           "R3": 66,
           "R4": null,
-          "current_pos": "T9",
+          "current_pos": "T10",
           "current_score": -6,
           "today": -6,
           "thru": 18,
@@ -801,7 +798,7 @@
         }
       ],
       "rank": 4,
-      "strokes_behind": 9
+      "strokes_behind": 10
     }
   ]
 }
