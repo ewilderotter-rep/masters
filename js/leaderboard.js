@@ -61,13 +61,14 @@ const Leaderboard = (() => {
         const isCounting = isGolferCounting(g, currentRound);
         const rowClass = isCounting ? 'counting' : 'not-counting';
         const cutBadge = g.current_pos === 'CUT' ? ' <span class="cut-badge">CUT</span>' : '';
+        const weekendBadge = g.is_weekend ? ' <span class="weekend-badge">WE</span>' : '';
         const pos = g.current_pos || '-';
         const thru = g.thru != null ? (g.thru === 18 ? 'F' : g.thru) : '-';
         const gHoles = g.holes_remaining != null ? g.holes_remaining : '-';
 
         html += `<tr class="golfer-row ${rowClass}">
           <td></td>
-          <td class="golfer-name">${g.name}${cutBadge}</td>
+          <td class="golfer-name">${g.name}${cutBadge}${weekendBadge}</td>
           <td class="score-cell hide-mobile">${g.R1 != null ? g.R1 : '-'}</td>
           <td class="score-cell hide-mobile">${g.R2 != null ? g.R2 : '-'}</td>
           <td class="score-cell hide-mobile">${g.R3 != null ? g.R3 : '-'}</td>
@@ -132,7 +133,12 @@ const Leaderboard = (() => {
 
   function isGolferCounting(golfer, currentRound) {
     if (!golfer.counting) return false;
-    return Object.values(golfer.counting).some(v => v === true);
+    // R3/R4: only weekend picks count
+    if (currentRound >= 3) {
+      return golfer.is_weekend === true;
+    }
+    // R1/R2: count if they contributed in either weekday round
+    return golfer.counting.R1 === true || golfer.counting.R2 === true;
   }
 
   return { render };

@@ -186,6 +186,18 @@ main {
   text-align: right;
 }
 
+.weekend-badge {
+  background: var(--masters-gold);
+  color: #1a1a1a;
+  font-size: 0.65rem;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-weight: 700;
+  margin-left: 4px;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+}
+
 .cut-badge {
   background: #c62828;
   color: white;
