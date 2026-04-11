@@ -140,8 +140,10 @@ def compute_team_score(team_golfers, score_lookup, config, current_round=1):
             vs_par_by_round[rnd] = round_totals[rnd] - (n_counting * PAR)
     for rnd in ["R3", "R4"]:
         if round_totals.get(rnd):
-            n_counting = len(weekend_ids)
-            vs_par_by_round[rnd] = round_totals[rnd] - (n_counting * PAR)
+            # Only count golfers who have actually completed this round
+            n_counting = sum(1 for d in golfer_details if d["dg_id"] in weekend_ids and d.get(rnd) is not None)
+            if n_counting > 0:
+                vs_par_by_round[rnd] = round_totals[rnd] - (n_counting * PAR)
 
     # In-progress vs par for current round (R3/R4 only — R1/R2 already in vs_par_by_round)
     inprogress_vs_par = 0
