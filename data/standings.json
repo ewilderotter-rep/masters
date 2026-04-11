@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T22:54:43.282863+00:00",
+  "last_updated": "2026-04-11T23:32:10.663135+00:00",
   "event_name": "Masters Tournament",
   "current_round": 3,
   "par": 72,
@@ -11,28 +11,28 @@
       "round_totals": {
         "R1": 424,
         "R2": 419,
-        "R3": 209,
+        "R3": 282,
         "R4": 0
       },
       "vs_par": -27,
       "vs_par_by_round": {
         "R1": -8,
         "R2": -13,
-        "R3": -7
+        "R3": -6
       },
-      "holes_remaining": 73,
+      "holes_remaining": 72,
       "golfers": [
         {
           "dg_id": 10091,
           "name": "Rory McIlroy",
           "R1": 67,
           "R2": 65,
-          "R3": null,
+          "R3": 73,
           "R4": null,
           "current_pos": "T1",
           "current_score": -11,
           "today": 1,
-          "thru": 17,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -42,8 +42,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 73,
-          "holes_remaining": 19
+          "holes_remaining": 18
         },
         {
           "dg_id": 23950,
@@ -404,20 +403,20 @@
     {
       "name": "Corey",
       "color": "#1b5e20",
-      "total_strokes": 1134,
+      "total_strokes": 1135,
       "round_totals": {
         "R1": 432,
         "R2": 419,
-        "R3": 212,
+        "R3": 284,
         "R4": 0
       },
-      "vs_par": -18,
+      "vs_par": -17,
       "vs_par_by_round": {
         "R1": 0,
         "R2": -13,
         "R3": -4
       },
-      "holes_remaining": 73,
+      "holes_remaining": 72,
       "golfers": [
         {
           "dg_id": 19841,
@@ -490,12 +489,12 @@
           "name": "Patrick Reed",
           "R1": 69,
           "R2": 69,
-          "R3": null,
+          "R3": 72,
           "R4": null,
-          "current_pos": "T7",
-          "current_score": -7,
-          "today": -1,
-          "thru": 17,
+          "current_pos": "T9",
+          "current_score": -6,
+          "today": 0,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -505,8 +504,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 71,
-          "holes_remaining": 19
+          "holes_remaining": 18
         },
         {
           "dg_id": 14636,
@@ -598,7 +596,7 @@
         }
       ],
       "rank": 3,
-      "strokes_behind": 9
+      "strokes_behind": 10
     },
     {
       "name": "Preston",
@@ -607,16 +605,16 @@
       "round_totals": {
         "R1": 439,
         "R2": 418,
-        "R3": 209,
+        "R3": 278,
         "R4": 0
       },
       "vs_par": -17,
       "vs_par_by_round": {
         "R1": 7,
         "R2": -14,
-        "R3": -7
+        "R3": -10
       },
-      "holes_remaining": 73,
+      "holes_remaining": 72,
       "golfers": [
         {
           "dg_id": 19195,
@@ -689,12 +687,12 @@
           "name": "Justin Rose",
           "R1": 70,
           "R2": 69,
-          "R3": null,
+          "R3": 69,
           "R4": null,
           "current_pos": "T5",
           "current_score": -8,
           "today": -3,
-          "thru": 17,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -704,8 +702,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 69,
-          "holes_remaining": 19
+          "holes_remaining": 18
         },
         {
           "dg_id": 14578,
@@ -714,7 +711,7 @@
           "R2": 71,
           "R3": 66,
           "R4": null,
-          "current_pos": "T10",
+          "current_pos": "T9",
           "current_score": -6,
           "today": -6,
           "thru": 18,
@@ -758,7 +755,7 @@
           "R2": 67,
           "R3": 66,
           "R4": null,
-          "current_pos": "T10",
+          "current_pos": "T9",
           "current_score": -6,
           "today": -6,
           "thru": 18,
