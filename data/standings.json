@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T22:15:57.085413+00:00",
+  "last_updated": "2026-04-11T22:54:43.282863+00:00",
   "event_name": "Masters Tournament",
   "current_round": 3,
   "par": 72,
@@ -20,7 +20,7 @@
         "R2": -13,
         "R3": -7
       },
-      "holes_remaining": 76,
+      "holes_remaining": 73,
       "golfers": [
         {
           "dg_id": 10091,
@@ -32,7 +32,7 @@
           "current_pos": "T1",
           "current_score": -11,
           "today": 1,
-          "thru": 14,
+          "thru": 17,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -43,7 +43,7 @@
           },
           "is_weekend": true,
           "R3_est": 73,
-          "holes_remaining": 22
+          "holes_remaining": 19
         },
         {
           "dg_id": 23950,
@@ -228,7 +228,7 @@
           "R2": 74,
           "R3": 65,
           "R4": null,
-          "current_pos": "T8",
+          "current_pos": "T7",
           "current_score": -7,
           "today": -7,
           "thru": 18,
@@ -294,7 +294,7 @@
           "R2": 69,
           "R3": 71,
           "R4": null,
-          "current_pos": "T16",
+          "current_pos": "T15",
           "current_score": -4,
           "today": -1,
           "thru": 18,
@@ -408,16 +408,16 @@
       "round_totals": {
         "R1": 432,
         "R2": 419,
-        "R3": 139,
+        "R3": 212,
         "R4": 0
       },
       "vs_par": -18,
       "vs_par_by_round": {
         "R1": 0,
         "R2": -13,
-        "R3": -5
+        "R3": -4
       },
-      "holes_remaining": 79,
+      "holes_remaining": 73,
       "golfers": [
         {
           "dg_id": 19841,
@@ -446,12 +446,12 @@
           "name": "Tommy Fleetwood",
           "R1": 71,
           "R2": 68,
-          "R3": null,
+          "R3": 73,
           "R4": null,
-          "current_pos": "T16",
+          "current_pos": "T15",
           "current_score": -4,
           "today": 1,
-          "thru": 15,
+          "thru": 18,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -461,8 +461,7 @@
             "R4": true
           },
           "is_weekend": true,
-          "R3_est": 73,
-          "holes_remaining": 21
+          "holes_remaining": 18
         },
         {
           "dg_id": 22085,
@@ -471,7 +470,7 @@
           "R2": 69,
           "R3": 68,
           "R4": null,
-          "current_pos": "T13",
+          "current_pos": "T12",
           "current_score": -5,
           "today": -4,
           "thru": 18,
@@ -493,10 +492,10 @@
           "R2": 69,
           "R3": null,
           "R4": null,
-          "current_pos": "T8",
+          "current_pos": "T7",
           "current_score": -7,
           "today": -1,
-          "thru": 14,
+          "thru": 17,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -507,7 +506,7 @@
           },
           "is_weekend": true,
           "R3_est": 71,
-          "holes_remaining": 22
+          "holes_remaining": 19
         },
         {
           "dg_id": 14636,
@@ -538,7 +537,7 @@
           "R2": 69,
           "R3": 69,
           "R4": null,
-          "current_pos": "T13",
+          "current_pos": "T12",
           "current_score": -5,
           "today": -3,
           "thru": 18,
@@ -617,7 +616,7 @@
         "R2": -14,
         "R3": -7
       },
-      "holes_remaining": 76,
+      "holes_remaining": 73,
       "golfers": [
         {
           "dg_id": 19195,
@@ -648,7 +647,7 @@
           "R2": 72,
           "R3": 70,
           "R4": null,
-          "current_pos": "T16",
+          "current_pos": "T15",
           "current_score": -4,
           "today": -2,
           "thru": 18,
@@ -695,7 +694,7 @@
           "current_pos": "T5",
           "current_score": -8,
           "today": -3,
-          "thru": 14,
+          "thru": 17,
           "round": 3,
           "make_cut": 1.0,
           "counting": {
@@ -706,7 +705,7 @@
           },
           "is_weekend": true,
           "R3_est": 69,
-          "holes_remaining": 22
+          "holes_remaining": 19
         },
         {
           "dg_id": 14578,
